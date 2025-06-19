@@ -1,0 +1,161 @@
+<div [ngClass]="['wrapperForm']">
+    <div #wrapperFormView [ngClass]="['wrapperFormView']">
+        <div [ngClass]="'row'">
+            <div [ngClass]="['col-12', 'wrapperFormView']">
+            <div [ngClass]="['d-flex', 'justify-content-center']">
+                <div [ngClass]="['d-flex', 'justify-content-center']">
+                    <img src="{{ urlApp }}assets/images/logoPlatform/logo.webp" [ngClass]="'logoSystemView'">
+                </div>
+                <!--
+                    <div [ngClass]="'titlesPlatform'">
+                    <h1 [ngClass]="'titleSystemView'">{{ titleWindowPlatform }}</h1>
+                    <h6 [ngClass]="'subTitleSystemView text-muted'">{{ titleWindowPlatform }}</h6>
+                </div>
+                -->
+            </div>
+            <div [ngClass]="'col-12 contentFormView'" *ngIf="!showViewFail">          
+                <form [formGroup]="formAuth" (ngSubmit) = "authUser(formAuth)" *ngIf="!showViewFail">
+                    <div [ngClass]="'form-group'">
+                        <label for="inputNombres" [ngClass]="'labelInputView'">Nombres</label>
+                        <div [ngClass]="'input-group mb-2'">
+                            <div [ngClass]="'input-group-prepend'">
+                                <div [ngClass]="'input-group-text'"><span [ngClass]="'glyphicon glyphicon-user'" aria-hidden="true"></span></div>
+                            </div>
+                            <input type="text" formControlName="inputNombres" [ngClass]="{'form-control' : true, 'is-valid': !formGroupControls['inputNombres'].errors, 'is-invalid': formGroupControls['inputNombres'].errors && formGroupControls['inputUsername'].touched }" 
+                            name="inputNombres" #inputNombres (focus)="focusInputNombres($event)" (focusout)="focusOutInputNombres()" 
+                            (keyup)="validateMaxLengthCharacter($event, maxLengthCharacterInputNombres)"  maxlength="{{ maxLengthCharacterInputNombres }}" 
+                            aria-describedby="inputNombres" placeholder="Digite Nombres" required>
+                        </div>
+                        <small *ngIf="showMaxLengthCharacterInputNombres" [ngClass]="'form-text text-muted float-right maxCharactersInputsView'">{{ lengthCharacterInputNombres }}/{{ maxLengthCharacterInputNombres }}</small>
+                        <div *ngIf="formGroupControls['inputNombres'].errors && formGroupControls['inputNombres'].touched">
+                            <small *ngIf="formGroupControls['inputNombres'].errors['required']" [ngClass] = "'form-text text-danger'">Por favor, ingresa los nombres.</small>
+                            <small *ngIf="formGroupControls['inputNombres'].errors['maxlength']" [ngClass] = "'form-text text-danger'">La longitud maxima de caracteres es de {{ maxLengthCharacterInputNombres }}.</small>
+                        </div>
+                    </div>
+                    <div [ngClass]="'form-group'">
+                        <label for="inputApellidos" [ngClass]="'labelInputView'">Apellidos</label>
+                        <div [ngClass]="'input-group mb-2'">
+                            <div [ngClass]="'input-group-prepend'">
+                                <div [ngClass]="'input-group-text'"><span [ngClass]="'glyphicon glyphicon-user'" aria-hidden="true"></span></div>
+                            </div>
+                            <input type="text" formControlName="inputApellidos" [ngClass]="{'form-control' : true, 'is-valid': !formGroupControls['inputApellidos'].errors, 'is-invalid': formGroupControls['inputApellidos'].errors && formGroupControls['inputUsername'].touched }" 
+                            name="inputApellidos" #inputApellidos (focus)="focusInputApellidos($event)" (focusout)="focusOutInputApellidos()" 
+                            (keyup)="validateMaxLengthCharacter($event, maxLengthCharacterInputApellidos)"  maxlength="{{ maxLengthCharacterInputApellidos }}" 
+                            aria-describedby="inputApellidos" placeholder="Digite Apellidos" required>
+                        </div>
+                        <small *ngIf="showMaxLengthCharacterInputApellidos" [ngClass]="'form-text text-muted float-right maxCharactersInputsView'">{{ lengthCharacterInputApellidos }}/{{ maxLengthCharacterInputApellidos }}</small>
+                        <div *ngIf="formGroupControls['inputApellidos'].errors && formGroupControls['inputApellidos'].touched">
+                            <small *ngIf="formGroupControls['inputApellidos'].errors['required']" [ngClass] = "'form-text text-danger'">Por favor, ingresa los apellidos.</small>
+                            <small *ngIf="formGroupControls['inputApellidos'].errors['maxlength']" [ngClass] = "'form-text text-danger'">La longitud maxima de caracteres es de {{ maxLengthCharacterInputApellidos }}.</small>
+                        </div>
+                    </div>
+                    <div [ngClass]="'form-group'">
+                        <label for="inputEmail" [ngClass]="'labelInputView'">Email</label>
+                        <div [ngClass]="'input-group mb-2'">
+                            <div [ngClass]="'input-group-prepend'">
+                                <div [ngClass]="'input-group-text'"><span [ngClass]="'glyphicon glyphicon-user'" aria-hidden="true"></span></div>
+                            </div>
+                            <input type="text" formControlName="inputEmail" [ngClass]="{'form-control' : true, 'is-valid': !formGroupControls['inputEmail'].errors, 'is-invalid': formGroupControls['inputEmail'].errors && formGroupControls['inputUsername'].touched }" 
+                            name="inputEmail" #inputEmail (focus)="focusInputEmail($event)" (focusout)="focusOutInputEmail()" 
+                            (keyup)="validateMaxLengthCharacter($event, maxLengthCharacterInputEmail)"  maxlength="{{ maxLengthCharacterInputEmail }}" 
+                            aria-describedby="inputEmail" placeholder="Digite Email" required>
+                        </div>
+                        <small *ngIf="showMaxLengthCharacterInputEmail" [ngClass]="'form-text text-muted float-right maxCharactersInputsView'">{{ lengthCharacterInputEmail }}/{{ maxLengthCharacterInputEmail }}</small>
+                        <div *ngIf="formGroupControls['inputEmail'].errors && formGroupControls['inputEmail'].touched">
+                            <small *ngIf="formGroupControls['inputEmail'].errors['required']" [ngClass] = "'form-text text-danger'">Por favor, ingresa el Email.</small>
+                            <small *ngIf="formGroupControls['inputEmail'].errors['maxlength']" [ngClass] = "'form-text text-danger'">La longitud maxima de caracteres es de {{ maxLengthCharacterInputEmail }}.</small>
+                            <small *ngIf="formGroupControls['inputEmail'].errors['email']" [ngClass] = "'form-text text-danger'">El campo debe ser un correo electrónico válido.</small>
+                        </div>
+                    </div>
+                    <!--
+                    <div [ngClass]="'form-group'">
+                        <label for="labelUsername" [ngClass]="'labelInputView'">Usuario</label>
+                        <div [ngClass]="'input-group mb-2'">
+                            <div [ngClass]="'input-group-prepend'">
+                                <div [ngClass]="'input-group-text'"><span [ngClass]="'glyphicon glyphicon-user'" aria-hidden="true"></span></div>
+                            </div>
+                            <input type="text" formControlName="inputUsername" [ngClass]="{'form-control' : true, 'is-valid': !formGroupControls['inputUsername'].errors, 'is-invalid': formGroupControls['inputUsername'].errors && formGroupControls['inputUsername'].touched }" name="inputUsername" #inputUsername (focus)="focusInputUsername($event)" (focusout)="focusOutInputUsername()" (keyup)="validateMaxLengthCharacter($event, maxLengthCharacterInputUsername)"  maxlength="{{ maxLengthCharacterInputUsername }}" aria-describedby="username" placeholder="Digite Usuario" required>
+                        </div>
+                        <small *ngIf="showMaxLengthCharacterInputUsername" [ngClass]="'form-text text-muted float-right maxCharactersInputsView'">{{ lengthCharacterInputUsername }}/{{ maxLengthCharacterInputUsername }}</small>
+                        <div *ngIf="formGroupControls['inputUsername'].errors && formGroupControls['inputUsername'].touched">
+                            <small *ngIf="formGroupControls['inputUsername'].errors['required']" [ngClass] = "'form-text text-danger'">Por favor, ingresa tu usuario.</small>
+                            <small *ngIf="formGroupControls['inputUsername'].errors['maxlength']" [ngClass] = "'form-text text-danger'">La longitud maxima de caracteres es de {{ maxLengthCharacterInputUsername }}.</small>
+                        </div>
+                    </div>-->
+                    <div [ngClass]="'form-group'">
+                        <label for="labelUsername" [ngClass]="'labelInputView'">Tipo de documento</label>
+                        <div [ngClass]="'input-group mb-2'">
+                            <div [ngClass]="'input-group-prepend'">
+                                <div [ngClass]="'input-group-text'"><span [ngClass]="'glyphicon glyphicon-user'" aria-hidden="true"></span></div>
+                            </div>
+                            <select  class="form-select" formControlName="inputTypeDocument">
+                                <option value="" *ngFor="let tipoIdentificacion of listaTipoIdentificacion" [value]="tipoIdentificacion.value">
+                                    {{tipoIdentificacion.label}}</option>
+                            </select>
+                        </div>                        
+                        <div *ngIf="formGroupControls['inputTypeDocument'].errors && formGroupControls['inputTypeDocument'].touched">
+                            <small *ngIf="formGroupControls['inputTypeDocument'].errors['required']" [ngClass] = "'form-text text-danger'">Por favor, selecciona el Tipo de Identificación.</small>
+                        </div>
+                    </div>
+                    <div [ngClass]="'form-group'">
+                        <label for="labelUsername" [ngClass]="'labelInputView'">Número de documento</label>
+                        <div [ngClass]="'input-group mb-2'">
+                            <div [ngClass]="'input-group-prepend'">
+                                <div [ngClass]="'input-group-text'"><span [ngClass]="'glyphicon glyphicon-user'" aria-hidden="true"></span></div>
+                            </div>
+                            <input type="text" formControlName="inputNumberDocument" [ngClass]="{'form-control' : true, 'is-valid': !formGroupControls['inputNumberDocument'].errors, 'is-invalid': 
+                            formGroupControls['inputNumberDocument'].errors && formGroupControls['inputNumberDocument'].touched }" name="inputNumberDocument" 
+                            #inputNumberDocument (focus)="focusInputNumberDocument($event)" (focusout)="focusOutInputNumberDocument()" 
+                            (keyup)="validateMaxLengthCharacter($event, maxLengthCharacterinputNumberDocument)"  maxlength="{{ maxLengthCharacterinputNumberDocument }}"
+                             aria-describedby="inputNumberDocument" placeholder="Digite Número de documento" required>
+                        </div>
+                        <small *ngIf="showMaxLengthCharacterinputNumberDocument" [ngClass]="'form-text text-muted float-right maxCharactersInputsView'">{{ lengthCharacterInputNumberDocument }}/{{ maxLengthCharacterinputNumberDocument }}</small>
+                        <div *ngIf="formGroupControls['inputNumberDocument'].errors && formGroupControls['inputNumberDocument'].touched">
+                            <small *ngIf="formGroupControls['inputNumberDocument'].errors['required']" [ngClass] = "'form-text text-danger'">Por favor, ingresa tu número de documento.</small>
+                            <small *ngIf="formGroupControls['inputNumberDocument'].errors['maxlength']" [ngClass] = "'form-text text-danger'">La longitud maxima de caracteres es de {{ maxLengthCharacterinputNumberDocument }}.</small>
+                        </div>
+                    </div>
+                    <div [ngClass]="'form-group'">
+                        <label for="labelPassword" [ngClass]="'labelInputView'">Contraseña</label>
+                        <div [ngClass]="'input-group mb-2'">
+                            <div [ngClass]="'input-group-prepend'">
+                                <div [ngClass]="'input-group-text'"><span [ngClass]="'glyphicon glyphicon-lock'" aria-hidden="true"></span></div>
+                            </div>
+                            <input type="password" formControlName="inputPassword" [ngClass]="{'form-control': true, 'is-valid': !formGroupControls['inputPassword'].errors, 'is-invalid': formGroupControls['inputPassword'].errors && formGroupControls['inputPassword'].touched }" name="inputPassword" #inputPassword (focus)="focusInputInputPassword($event)" (focusout)="focusOutInputInputPassword()" (keyup)="validateMaxLengthCharacter($event, maxLengthCharacterInputPassword)" maxlength="{{ maxLengthCharacterInputPassword }}" minlength="{{ minLengthCharacterInputPassword }}"  placeholder="Digite Contraseña" required>
+                            <a (click)="showInputPassword(inputPassword)">
+                                <div [ngClass]="'input-group-append'">
+                                    <span [ngClass]="'input-group-text heightButtonIconViewPassword'">
+                                        <span [ngClass] = "'glyphicon glyphicon-eye-open'" #buttonShowInputPassword aria-hidden="true"></span>
+                                    </span>
+                                </div>
+                            </a>
+                        </div>
+                        <small *ngIf="showMaxLengthCharacterInputPassword" [ngClass]="'form-text text-muted float-right maxCharactersInputsView'">{{ lengthCharacterInputPassword }}/{{ maxLengthCharacterInputPassword }}</small>
+                        <div *ngIf="formGroupControls['inputPassword'].errors && formGroupControls['inputPassword'].touched">
+                            <small *ngIf="formGroupControls['inputPassword'].errors['required']" [ngClass] = "'form-text text-danger'">Por favor, ingresa tu contraseña.</small>
+                            <small *ngIf="formGroupControls['inputPassword'].errors['maxlength']" [ngClass] = "'form-text text-danger'">La longitud maxima de caracteres es de {{ maxLengthCharacterInputPassword }}.</small>
+                            <small *ngIf="formGroupControls['inputPassword'].errors['minlength']" [ngClass] = "'form-text text-danger'">La longitud minima de caracteres es de {{ minLengthCharacterInputPassword}}. </small>
+                        </div>
+                    </div>
+                    <div [ngClass]="'alert alert-danger marginTopAlertAuth'" role="alert" *ngIf="showAlertDanger">
+                        {{ responseHttpMessage }}
+                    </div>
+                    <div [ngClass]="'wrapperButtonViewAuth d-flex justify-content-center'">
+                        <button type="submit" [disabled]="formAuth.invalid" [ngClass]="['btn', 'btn-primary', 'btn-lg', 'btn-block']">Registrar</button>
+                    </div>
+                    <div [ngClass]="'wrapperButtonViewAuth'">
+                        <small [ngClass]="'form-text text-center'"><a [routerLink] = "'/iniciar-sesion'">Iniciar Sesión</a></small>
+                    </div>
+                    
+                </form>
+            </div>
+            <div [ngClass]="'col-12 contentFormViewFail'" *ngIf="showViewFail">
+                <h4 [ngClass]="'titleSystemViewFail'">Error Registrando Usuario</h4>
+                <p [ngClass]="'paragraphViewFail text-muted'">Se produjo un error en la petición de crear usuario.</p>
+                <p [ngClass]="'paragraphViewFail text-muted'">Para retornar al formulario de Registrar click en el siguiente enlace <a href="#" (click)="showViewForm($event)">Registrar</a></p>
+            </div>
+            </div>
+        </div>
+    </div>
+    <app-slider-auth [languageViewModel]="languageViewModel"></app-slider-auth>  
+  </div> 

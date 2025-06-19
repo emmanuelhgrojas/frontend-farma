@@ -1,0 +1,102 @@
+/* Begin Styles View Login */
+.view {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.wrapperFormViewLogin {
+  margin: 50px 0px 0px 0px;
+  padding: 25px;
+  height: 100%;
+  width: 485px;
+}
+
+.contentFormViewLogin,
+.contentFormViewLoginFail {
+  min-height: 315px;
+  max-height: 410px;
+  margin: 15px 0px 0px 0px;
+}
+
+.logoSystemViewLogin {
+  max-width: 150px;
+  max-height: 50px;
+}
+
+.logoNaharaSoftViewLogin {
+  max-width: 220px;
+  max-height: 80px;
+}
+
+.logoNaharaSoftViewLoginFail {}
+
+.titleSystemViewLogin {
+  font-size: 1.2rem;
+  text-align: center;
+  font-weight: 600;
+  color: var(--color-first) !important;
+}
+
+.subTitleSystemViewLogin {
+  font-size: .8rem;
+  text-align: center;
+}
+
+.labelInputViewLogin {
+  color: var(--color-first) !important;
+  font-size: .9rem;
+  font-weight: 600;
+}
+
+.input-group-text{
+  color: var(--color-first) !important;
+}
+
+.form-control{
+  height: 38px;
+}
+
+.wrapperLogoNaharaSoftViewLogin {}
+
+.maxCharactersInputsViewLogin {
+  margin-top: -5px;
+}
+
+.heightButtonIconViewPassword {
+  color: var(--color-text-light-grey);
+  height: 38px;
+}
+
+.heightButtonIconViewPassword:hover {
+  color: var(--color-text-gray);
+}
+
+.wrapperFormLogin {
+  padding: 0;
+}
+
+
+
+.titlesPlatform{
+  margin-left: 1rem;
+}
+
+/* End Styles View Login */
+
+/* Begin Styles View Login Fail */
+
+.titleSystemViewLoginFail {
+  margin: 0px 0px 20px 0px;
+  text-align: center;
+}
+
+.paragraphViewLoginFail {
+  text-align: center;
+}
+
+/* End Styles View Login Fail */
+
+/* Begin Styles Links  */
+

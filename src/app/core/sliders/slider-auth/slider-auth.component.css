@@ -1,0 +1,82 @@
+.view {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.carousel-caption{
+    bottom: 3rem;
+}
+
+.titleSlider {
+    color: var(--color-text-white) !important;
+}
+
+/* Footer Login */
+.wrapperFooterSocialNetworks {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 8px;
+    background-color: var(--color-second);
+    position:absolute;
+    bottom: 0;
+    z-index: 9;
+    color: var(--color-text-white);
+}
+
+.footerSocialNetworks {
+    margin: 0px 5px 0px 5px;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    width: 20px;
+    height: 20px;
+}
+
+.footerSocialNetworks:hover {
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+}
+  
+/* End Footer Login */
+
+.backgroundView {
+    /*
+    background-image: url("../../assets/images/login/background-v1_1.jpg");
+    background-size: cover;
+    background-position: 50%; */
+    -webkit-box-shadow: inset -24px 4px 64px -24px #474747;
+    box-shadow: inset -24px 4px 64px -24px #474747;
+  }
+
+.wrapperBackgroundView {
+    padding: 0px;
+    display: table-cell;
+    height: 100vh;
+    left: 500px;
+    position: fixed;
+    top: 0;
+    width: calc(100% - 500px);
+}
+
+@media (max-width: 768px) {
+    .backgroundView {
+      display: none;
+    }
+}
+
+/* Begin Styles View Login */
+
+
+
+
+  
+  
+  
+  
+  
+  
+  

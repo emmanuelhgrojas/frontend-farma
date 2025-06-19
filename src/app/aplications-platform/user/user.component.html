@@ -1,0 +1,77 @@
+
+<div class="row">
+  <div class="col-md-12 stretch-card">
+    <div class="card">
+      <div class="card-body">
+        <h6 class="card-title">Usuarios</h6>
+        <div class="row align-items-start mb-4">
+          <div class="col-md-7">
+            <p class="text-muted tx-13 mb-3 mb-md-0"></p>
+          </div>
+          <div class="col-md-5 d-flex justify-content-md-end">
+            <div class="btn-group mb-3 mb-md-0" role="group" aria-label="buttons">
+              <button type="button" class="btn btn-primary" (click)="abrirModalTemplateRef(modalUsuario)">Nuevo Usuario</button>
+            </div>
+          </div>
+        </div>
+        <div class="table-responsive">
+          <table datatable [dtOptions]="dtOptions" [dtTrigger]="dtTrigger" id="user-table" class="table table-responsive-sm table-bordered table-striped table-sm">
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal -->
+<ng-template #modalUsuario let-modal>
+  <div class="modal-header">
+    <h5 class="modal-title" id="exampleModalLabel">{{ titleModal }}</h5>
+    <button type="button" class="btn-close" (click)="modal.close('by: close icon')" aria-label="Close"></button>
+  </div>
+  <div class="modal-body">
+    <form [formGroup]="formsUsuario" (ngSubmit)="guardarFormUsuario(formsUsuario)">
+      <div class="row mb-3">
+        <div class="col-md-6">
+            <label for="" class="form-label">Nombres:</label>
+            <input type="text" class="form-control" placeholder="Ingrese Nombres" formControlName="formUNombres">
+        </div>
+        <div class="col-md-6">
+            <label for="" class="form-label">Apellidos:</label>
+            <input type="text" class="form-control" placeholder="Ingrese Apellidos" formControlName="formUApellidos">
+        </div>                                
+      </div>
+      <div class="row mb-3">
+        <div class="col-md-6">
+            <label for="" class="form-label">Usuario:</label>
+            <input type="text" class="form-control" placeholder="Ingrese Usuario" [readonly]="readonlyUsername" formControlName="formUsuario">
+        </div>
+        <div class="col-md-6">
+            <label for="" class="form-label">Email:</label>
+            <input type="email" class="form-control" placeholder="Ingrese Email" formControlName="formUEmail">
+        </div>                                
+      </div>
+      <div class="row mb-3">
+        <div class="col-md-6">
+            <label for="" class="form-label">Contraseña:</label>
+            <input type="password" class="form-control" formControlName="formUContrasena" placeholder="Ingrese Contraseña">
+        </div>
+        <div class="col-md-6">
+            <label for="" class="form-label">Confirmar Contraseña:</label>
+            <input type="password" class="form-control" formControlName="formUConfiContrasena" placeholder="Ingrese Confirmar Contraseña">
+        </div>                                
+      </div>
+
+      <div class="row mb-3 d-flex justify-content-center">
+        <div class="col-md-2">
+          <button type="submit" class="btn btn-success">Guardar</button>
+        </div>
+        
+      </div>      
+    </form>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-secondary" (click)="modal.close('by: close button')">Cerrar</button>    
+  </div>
+</ng-template>

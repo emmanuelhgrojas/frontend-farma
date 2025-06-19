@@ -1,0 +1,3792 @@
+{
+  "data": [
+    {
+      "calling_codes": [
+        93
+      ],
+      "cca3": "AFG",
+      "currency": {
+        "emoji": "AFN",
+        "key": "AFN",
+        "symbol": "",
+        "value": "Afghani"
+      },
+      "emoji": "🇦🇫",
+      "key": "AF",
+      "value": "Afghanistan"
+    },
+    {
+      "calling_codes": [
+        35818
+      ],
+      "cca3": "ALA",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇦🇽",
+      "key": "AX",
+      "value": "Aland Islands"
+    },
+    {
+      "calling_codes": [
+        355
+      ],
+      "cca3": "ALB",
+      "currency": {
+        "emoji": "ALL",
+        "key": "ALL",
+        "symbol": "Lek ",
+        "value": "Lek"
+      },
+      "emoji": "🇦🇱",
+      "key": "AL",
+      "value": "Albania"
+    },
+    {
+      "calling_codes": [
+        213
+      ],
+      "cca3": "DZA",
+      "currency": {
+        "emoji": "DZD",
+        "key": "DZD",
+        "symbol": "DA",
+        "value": "Algerian Dinar"
+      },
+      "emoji": "🇩🇿",
+      "key": "DZ",
+      "value": "Algeria"
+    },
+    {
+      "calling_codes": [
+        1684
+      ],
+      "cca3": "ASM",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇦🇸",
+      "key": "AS",
+      "value": "American Samoa"
+    },
+    {
+      "calling_codes": [
+        376
+      ],
+      "cca3": "AND",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇦🇩",
+      "key": "AD",
+      "value": "Andorra"
+    },
+    {
+      "calling_codes": [
+        244
+      ],
+      "cca3": "AGO",
+      "currency": {
+        "emoji": "AOA",
+        "key": "AOA",
+        "symbol": "Kz ",
+        "value": "Kwanza"
+      },
+      "emoji": "🇦🇴",
+      "key": "AO",
+      "value": "Angola"
+    },
+    {
+      "calling_codes": [
+        1264
+      ],
+      "cca3": "AIA",
+      "currency": {
+        "emoji": "XCD",
+        "key": "XCD",
+        "symbol": "$",
+        "value": "East Caribbean Dollar"
+      },
+      "emoji": "🇦🇮",
+      "key": "AI",
+      "value": "Anguilla"
+    },
+    {
+      "calling_codes": [
+        672
+      ],
+      "cca3": "ATA",
+      "currency": {
+        "emoji": "Unknown",
+        "key": "Unknown",
+        "symbol": "",
+        "value": "Unknown"
+      },
+      "emoji": "🇦🇶",
+      "key": "AQ",
+      "value": "Antarctica"
+    },
+    {
+      "calling_codes": [
+        1268
+      ],
+      "cca3": "ATG",
+      "currency": {
+        "emoji": "XCD",
+        "key": "XCD",
+        "symbol": "$",
+        "value": "East Caribbean Dollar"
+      },
+      "emoji": "🇦🇬",
+      "key": "AG",
+      "value": "Antigua and Barbuda"
+    },
+    {
+      "calling_codes": [
+        54
+      ],
+      "cca3": "ARG",
+      "currency": {
+        "emoji": "ARS",
+        "key": "ARS",
+        "symbol": "$",
+        "value": "Argentine Peso"
+      },
+      "emoji": "🇦🇷",
+      "key": "AR",
+      "value": "Argentina"
+    },
+    {
+      "calling_codes": [
+        374
+      ],
+      "cca3": "ARM",
+      "currency": {
+        "emoji": "AMD",
+        "key": "AMD",
+        "symbol": "֏",
+        "value": "Armenian Dram"
+      },
+      "emoji": "🇦🇲",
+      "key": "AM",
+      "value": "Armenia"
+    },
+    {
+      "calling_codes": [
+        297,
+        5998
+      ],
+      "cca3": "ABW",
+      "currency": {
+        "emoji": "AWG",
+        "key": "AWG",
+        "symbol": "ƒ",
+        "value": "Aruban Florin"
+      },
+      "emoji": "🇦🇼",
+      "key": "AW",
+      "value": "Aruba"
+    },
+    {
+      "calling_codes": [
+        61
+      ],
+      "cca3": "AUS",
+      "currency": {
+        "emoji": "AUD",
+        "key": "AUD",
+        "symbol": "$",
+        "value": "Australian Dollar"
+      },
+      "emoji": "🇦🇺",
+      "key": "AU",
+      "value": "Australia"
+    },
+    {
+      "calling_codes": [
+        43
+      ],
+      "cca3": "AUT",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇦🇹",
+      "key": "AT",
+      "value": "Austria"
+    },
+    {
+      "calling_codes": [
+        994
+      ],
+      "cca3": "AZE",
+      "currency": {
+        "emoji": "AZN",
+        "key": "AZN",
+        "symbol": "₼",
+        "value": "Azerbaijanian Manat"
+      },
+      "emoji": "🇦🇿",
+      "key": "AZ",
+      "value": "Azerbaijan"
+    },
+    {
+      "calling_codes": [
+        1242
+      ],
+      "cca3": "BHS",
+      "currency": {
+        "emoji": "BSD",
+        "key": "BSD",
+        "symbol": "$",
+        "value": "Bahamian Dollar"
+      },
+      "emoji": "🇧🇸",
+      "key": "BS",
+      "value": "Bahamas"
+    },
+    {
+      "calling_codes": [
+        973
+      ],
+      "cca3": "BHR",
+      "currency": {
+        "emoji": "BHD",
+        "key": "BHD",
+        "symbol": "د.ب",
+        "value": "Bahraini Dinar"
+      },
+      "emoji": "🇧🇭",
+      "key": "BH",
+      "value": "Bahrain"
+    },
+    {
+      "calling_codes": [
+        880
+      ],
+      "cca3": "BGD",
+      "currency": {
+        "emoji": "BDT",
+        "key": "BDT",
+        "symbol": "Tk ",
+        "value": "Taka"
+      },
+      "emoji": "🇧🇩",
+      "key": "BD",
+      "value": "Bangladesh"
+    },
+    {
+      "calling_codes": [
+        1246
+      ],
+      "cca3": "BRB",
+      "currency": {
+        "emoji": "BBD",
+        "key": "BBD",
+        "symbol": "Bds$ ",
+        "value": "Barbados Dollar"
+      },
+      "emoji": "🇧🇧",
+      "key": "BB",
+      "value": "Barbados"
+    },
+    {
+      "calling_codes": [
+        375
+      ],
+      "cca3": "BLR",
+      "currency": {
+        "emoji": "BYN",
+        "key": "BYN",
+        "symbol": "",
+        "value": "Belarussian Ruble"
+      },
+      "emoji": "🇧🇾",
+      "key": "BY",
+      "value": "Belarus"
+    },
+    {
+      "calling_codes": [
+        32
+      ],
+      "cca3": "BEL",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇧🇪",
+      "key": "BE",
+      "value": "Belgium"
+    },
+    {
+      "calling_codes": [
+        501
+      ],
+      "cca3": "BLZ",
+      "currency": {
+        "emoji": "BZD",
+        "key": "BZD",
+        "symbol": "$",
+        "value": "Belize Dollar"
+      },
+      "emoji": "🇧🇿",
+      "key": "BZ",
+      "value": "Belize"
+    },
+    {
+      "calling_codes": [
+        229
+      ],
+      "cca3": "BEN",
+      "currency": {
+        "emoji": "XOF",
+        "key": "XOF",
+        "symbol": "XOF ",
+        "value": "CFA Franc BCEAO"
+      },
+      "emoji": "🇧🇯",
+      "key": "BJ",
+      "value": "Benin"
+    },
+    {
+      "calling_codes": [
+        1441
+      ],
+      "cca3": "BMU",
+      "currency": {
+        "emoji": "BMD",
+        "key": "BMD",
+        "symbol": "$",
+        "value": "Bermudian Dollar"
+      },
+      "emoji": "🇧🇲",
+      "key": "BM",
+      "value": "Bermuda"
+    },
+    {
+      "calling_codes": [
+        975
+      ],
+      "cca3": "BTN",
+      "currency": {
+        "emoji": "BTN",
+        "key": "BTN",
+        "symbol": "BTN ",
+        "value": "Ngultrum"
+      },
+      "emoji": "🇧🇹",
+      "key": "BT",
+      "value": "Bhutan"
+    },
+    {
+      "calling_codes": [
+        591
+      ],
+      "cca3": "BOL",
+      "currency": {
+        "emoji": "BOB",
+        "key": "BOB",
+        "symbol": "$b",
+        "value": "Boliviano"
+      },
+      "emoji": "🇧🇴",
+      "key": "BO",
+      "value": "Bolivia"
+    },
+    {
+      "calling_codes": [
+        5993,
+        5994
+      ],
+      "cca3": "BES",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇧🇶",
+      "key": "BQ",
+      "value": "Bonaire, Sint Eustatius And Saba"
+    },
+    {
+      "calling_codes": [
+        387
+      ],
+      "cca3": "BIH",
+      "currency": {
+        "emoji": "BAM",
+        "key": "BAM",
+        "symbol": "KM ",
+        "value": "Convertible Mark"
+      },
+      "emoji": "🇧🇦",
+      "key": "BA",
+      "value": "Bosnia and Herzegovina"
+    },
+    {
+      "calling_codes": [
+        267
+      ],
+      "cca3": "BWA",
+      "currency": {
+        "emoji": "BWP",
+        "key": "BWP",
+        "symbol": "P",
+        "value": "Pula"
+      },
+      "emoji": "🇧🇼",
+      "key": "BW",
+      "value": "Botswana"
+    },
+    {
+      "calling_codes": [
+        47
+      ],
+      "cca3": "BVT",
+      "currency": {
+        "emoji": "NOK",
+        "key": "NOK",
+        "symbol": "kr",
+        "value": "Norwegian Krone"
+      },
+      "emoji": "🇧🇻",
+      "key": "BV",
+      "value": "Bouvet Island"
+    },
+    {
+      "calling_codes": [
+        55
+      ],
+      "cca3": "BRA",
+      "currency": {
+        "emoji": "BRL",
+        "key": "BRL",
+        "symbol": "R$",
+        "value": "Brazilian Real"
+      },
+      "emoji": "🇧🇷",
+      "key": "BR",
+      "value": "Brazil"
+    },
+    {
+      "calling_codes": [
+        246
+      ],
+      "cca3": "IOT",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇮🇴",
+      "key": "IO",
+      "value": "British Indian Ocean Territory"
+    },
+    {
+      "calling_codes": [
+        673
+      ],
+      "cca3": "BRN",
+      "currency": {
+        "emoji": "BND",
+        "key": "BND",
+        "symbol": "$",
+        "value": "Brunei Dollar"
+      },
+      "emoji": "🇧🇳",
+      "key": "BN",
+      "value": "Brunei Darussalam"
+    },
+    {
+      "calling_codes": [
+        359
+      ],
+      "cca3": "BGR",
+      "currency": {
+        "emoji": "BGN",
+        "key": "BGN",
+        "symbol": "лв",
+        "value": "Bulgarian Lev"
+      },
+      "emoji": "🇧🇬",
+      "key": "BG",
+      "value": "Bulgaria"
+    },
+    {
+      "calling_codes": [
+        226
+      ],
+      "cca3": "BFA",
+      "currency": {
+        "emoji": "XOF",
+        "key": "XOF",
+        "symbol": "XOF ",
+        "value": "CFA Franc BCEAO"
+      },
+      "emoji": "🇧🇫",
+      "key": "BF",
+      "value": "Burkina Faso"
+    },
+    {
+      "calling_codes": [
+        257
+      ],
+      "cca3": "BDI",
+      "currency": {
+        "emoji": "BIF",
+        "key": "BIF",
+        "symbol": "FBu ",
+        "value": "Burundi Franc"
+      },
+      "emoji": "🇧🇮",
+      "key": "BI",
+      "value": "Burundi"
+    },
+    {
+      "calling_codes": [
+        855
+      ],
+      "cca3": "KHM",
+      "currency": {
+        "emoji": "KHR",
+        "key": "KHR",
+        "symbol": "៛",
+        "value": "Riel"
+      },
+      "emoji": "🇰🇭",
+      "key": "KH",
+      "value": "Cambodia"
+    },
+    {
+      "calling_codes": [
+        237
+      ],
+      "cca3": "CMR",
+      "currency": {
+        "emoji": "XAF",
+        "key": "XAF",
+        "symbol": "$",
+        "value": "CFA Franc BEAC"
+      },
+      "emoji": "🇨🇲",
+      "key": "CM",
+      "value": "Cameroon"
+    },
+    {
+      "calling_codes": [
+        1
+      ],
+      "cca3": "CAN",
+      "currency": {
+        "emoji": "CAD",
+        "key": "CAD",
+        "symbol": "CA$",
+        "value": "Canadian Dollar"
+      },
+      "emoji": "🇨🇦",
+      "key": "CA",
+      "value": "Canada"
+    },
+    {
+      "calling_codes": [
+        238
+      ],
+      "cca3": "CPV",
+      "currency": {
+        "emoji": "CVE",
+        "key": "CVE",
+        "symbol": "$",
+        "value": "Cabo Verde Escudo"
+      },
+      "emoji": "🇨🇻",
+      "key": "CV",
+      "value": "Cape Verde"
+    },
+    {
+      "calling_codes": [
+        1345
+      ],
+      "cca3": "CYM",
+      "currency": {
+        "emoji": "KYD",
+        "key": "KYD",
+        "symbol": "$",
+        "value": "Cayman Islands Dollar"
+      },
+      "emoji": "🇰🇾",
+      "key": "KY",
+      "value": "Cayman Islands"
+    },
+    {
+      "calling_codes": [
+        236
+      ],
+      "cca3": "CAF",
+      "currency": {
+        "emoji": "XAF",
+        "key": "XAF",
+        "symbol": "$",
+        "value": "CFA Franc BEAC"
+      },
+      "emoji": "🇨🇫",
+      "key": "CF",
+      "value": "Central African Republic"
+    },
+    {
+      "calling_codes": [
+        235
+      ],
+      "cca3": "TCD",
+      "currency": {
+        "emoji": "XAF",
+        "key": "XAF",
+        "symbol": "$",
+        "value": "CFA Franc BEAC"
+      },
+      "emoji": "🇹🇩",
+      "key": "TD",
+      "value": "Chad"
+    },
+    {
+      "calling_codes": [
+        56
+      ],
+      "cca3": "CHL",
+      "currency": {
+        "emoji": "CLF",
+        "key": "CLF",
+        "symbol": "",
+        "value": "Unidad de Fomento"
+      },
+      "emoji": "🇨🇱",
+      "key": "CL",
+      "value": "Chile"
+    },
+    {
+      "calling_codes": [
+        86
+      ],
+      "cca3": "CHN",
+      "currency": {
+        "emoji": "CNY",
+        "key": "CNY",
+        "symbol": "¥",
+        "value": "Yuan Renminbi"
+      },
+      "emoji": "🇨🇳",
+      "key": "CN",
+      "value": "China"
+    },
+    {
+      "calling_codes": [
+        6189164
+      ],
+      "cca3": "CXR",
+      "currency": {
+        "emoji": "AUD",
+        "key": "AUD",
+        "symbol": "$",
+        "value": "Australian Dollar"
+      },
+      "emoji": "🇨🇽",
+      "key": "CX",
+      "value": "Christmas Island"
+    },
+    {
+      "calling_codes": [
+        672,
+        6189162
+      ],
+      "cca3": "CCK",
+      "currency": {
+        "emoji": "AUD",
+        "key": "AUD",
+        "symbol": "$",
+        "value": "Australian Dollar"
+      },
+      "emoji": "🇨🇨",
+      "key": "CC",
+      "value": "Cocos (Keeling) Islands"
+    },
+    {
+      "calling_codes": [
+        57
+      ],
+      "cca3": "COL",
+      "currency": {
+        "emoji": "COP",
+        "key": "COP",
+        "symbol": "$",
+        "value": "Colombian Peso"
+      },
+      "emoji": "🇨🇴",
+      "key": "CO",
+      "value": "Colombia"
+    },
+    {
+      "calling_codes": [
+        269
+      ],
+      "cca3": "COM",
+      "currency": {
+        "emoji": "KMF",
+        "key": "KMF",
+        "symbol": "KMF ",
+        "value": "Comoro Franc"
+      },
+      "emoji": "🇰🇲",
+      "key": "KM",
+      "value": "Comoros"
+    },
+    {
+      "calling_codes": [
+        242
+      ],
+      "cca3": "COG",
+      "currency": {
+        "emoji": "XAF",
+        "key": "XAF",
+        "symbol": "$",
+        "value": "CFA Franc BEAC"
+      },
+      "emoji": "🇨🇬",
+      "key": "CG",
+      "value": "Congo"
+    },
+    {
+      "calling_codes": [
+        682
+      ],
+      "cca3": "COK",
+      "currency": {
+        "emoji": "NZD",
+        "key": "NZD",
+        "symbol": "$",
+        "value": "New Zealand Dollar"
+      },
+      "emoji": "🇨🇰",
+      "key": "CK",
+      "value": "Cook Islands"
+    },
+    {
+      "calling_codes": [
+        506
+      ],
+      "cca3": "CRI",
+      "currency": {
+        "emoji": "CRC",
+        "key": "CRC",
+        "symbol": "₡",
+        "value": "Costa Rican Colon"
+      },
+      "emoji": "🇨🇷",
+      "key": "CR",
+      "value": "Costa Rica"
+    },
+    {
+      "calling_codes": [
+        225
+      ],
+      "cca3": "CIV",
+      "currency": {
+        "emoji": "XOF",
+        "key": "XOF",
+        "symbol": "XOF ",
+        "value": "CFA Franc BCEAO"
+      },
+      "emoji": "🇨🇮",
+      "key": "CI",
+      "value": "Cote d`Ivoire"
+    },
+    {
+      "calling_codes": [
+        385
+      ],
+      "cca3": "HRV",
+      "currency": {
+        "emoji": "HRK",
+        "key": "HRK",
+        "symbol": "kn",
+        "value": "Kuna"
+      },
+      "emoji": "🇭🇷",
+      "key": "HR",
+      "value": "Croatia"
+    },
+    {
+      "calling_codes": [
+        53
+      ],
+      "cca3": "CUB",
+      "currency": {
+        "emoji": "CUC",
+        "key": "CUC",
+        "symbol": "",
+        "value": "Peso Convertible"
+      },
+      "emoji": "🇨🇺",
+      "key": "CU",
+      "value": "Cuba"
+    },
+    {
+      "calling_codes": [
+        5999
+      ],
+      "cca3": "CUW",
+      "currency": {
+        "emoji": "ANG",
+        "key": "ANG",
+        "symbol": "ƒ",
+        "value": "Netherlands Antillean Guilder"
+      },
+      "emoji": "🇨🇼",
+      "key": "CW",
+      "value": "Curacao"
+    },
+    {
+      "calling_codes": [
+        357
+      ],
+      "cca3": "CYP",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇨🇾",
+      "key": "CY",
+      "value": "Cyprus"
+    },
+    {
+      "calling_codes": [
+        420
+      ],
+      "cca3": "CZE",
+      "currency": {
+        "emoji": "CZK",
+        "key": "CZK",
+        "symbol": "Kč",
+        "value": "Czech Koruna"
+      },
+      "emoji": "🇨🇿",
+      "key": "CZ",
+      "value": "Czechia"
+    },
+    {
+      "calling_codes": [
+        850
+      ],
+      "cca3": "PRK",
+      "currency": {
+        "emoji": "KPW",
+        "key": "KPW",
+        "symbol": "₩",
+        "value": "North Korean Won"
+      },
+      "emoji": "🇰🇵",
+      "key": "KP",
+      "value": "Democratic People`s Republic of Korea"
+    },
+    {
+      "calling_codes": [
+        243
+      ],
+      "cca3": "COD",
+      "currency": {
+        "emoji": "CDF",
+        "key": "CDF",
+        "symbol": "FC ",
+        "value": "Congolese Franc"
+      },
+      "emoji": "🇨🇩",
+      "key": "CD",
+      "value": "Democratic Republic of the Congo"
+    },
+    {
+      "calling_codes": [
+        45
+      ],
+      "cca3": "DNK",
+      "currency": {
+        "emoji": "DKK",
+        "key": "DKK",
+        "symbol": "kr.",
+        "value": "Danish Krone"
+      },
+      "emoji": "🇩🇰",
+      "key": "DK",
+      "value": "Denmark"
+    },
+    {
+      "calling_codes": [
+        253
+      ],
+      "cca3": "DJI",
+      "currency": {
+        "emoji": "DJF",
+        "key": "DJF",
+        "symbol": "DJF ",
+        "value": "Djibouti Franc"
+      },
+      "emoji": "🇩🇯",
+      "key": "DJ",
+      "value": "Djibouti"
+    },
+    {
+      "calling_codes": [
+        1767
+      ],
+      "cca3": "DMA",
+      "currency": {
+        "emoji": "XCD",
+        "key": "XCD",
+        "symbol": "$",
+        "value": "East Caribbean Dollar"
+      },
+      "emoji": "🇩🇲",
+      "key": "DM",
+      "value": "Dominica"
+    },
+    {
+      "calling_codes": [
+        1809,
+        1829,
+        1849
+      ],
+      "cca3": "DOM",
+      "currency": {
+        "emoji": "DOP",
+        "key": "DOP",
+        "symbol": "$",
+        "value": "Dominican Peso"
+      },
+      "emoji": "🇩🇴",
+      "key": "DO",
+      "value": "Dominican Republic"
+    },
+    {
+      "calling_codes": [
+        593
+      ],
+      "cca3": "ECU",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇪🇨",
+      "key": "EC",
+      "value": "Ecuador"
+    },
+    {
+      "calling_codes": [
+        20
+      ],
+      "cca3": "EGY",
+      "currency": {
+        "emoji": "EGP",
+        "key": "EGP",
+        "symbol": "£",
+        "value": "Egyptian Pound"
+      },
+      "emoji": "🇪🇬",
+      "key": "EG",
+      "value": "Egypt"
+    },
+    {
+      "calling_codes": [
+        503
+      ],
+      "cca3": "SLV",
+      "currency": {
+        "emoji": "SVC",
+        "key": "SVC",
+        "symbol": "¢",
+        "value": "El Salvador Colon"
+      },
+      "emoji": "🇸🇻",
+      "key": "SV",
+      "value": "El Salvador"
+    },
+    {
+      "calling_codes": [
+        240
+      ],
+      "cca3": "GNQ",
+      "currency": {
+        "emoji": "XAF",
+        "key": "XAF",
+        "symbol": "$",
+        "value": "CFA Franc BEAC"
+      },
+      "emoji": "🇬🇶",
+      "key": "GQ",
+      "value": "Equatorial Guinea"
+    },
+    {
+      "calling_codes": [
+        291
+      ],
+      "cca3": "ERI",
+      "currency": {
+        "emoji": "ERN",
+        "key": "ERN",
+        "symbol": "NKf ",
+        "value": "Nakfa"
+      },
+      "emoji": "🇪🇷",
+      "key": "ER",
+      "value": "Eritrea"
+    },
+    {
+      "calling_codes": [
+        372
+      ],
+      "cca3": "EST",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇪🇪",
+      "key": "EE",
+      "value": "Estonia"
+    },
+    {
+      "calling_codes": [
+        251
+      ],
+      "cca3": "ETH",
+      "currency": {
+        "emoji": "ETB",
+        "key": "ETB",
+        "symbol": "BR",
+        "value": "Ethiopian Birr"
+      },
+      "emoji": "🇪🇹",
+      "key": "ET",
+      "value": "Ethiopia"
+    },
+    {
+      "calling_codes": [
+        500
+      ],
+      "cca3": "FLK",
+      "currency": {
+        "emoji": "FKP",
+        "key": "FKP",
+        "symbol": "£",
+        "value": "Falkland Islands Pound"
+      },
+      "emoji": "🇫🇰",
+      "key": "FK",
+      "value": "Falkland Islands (Malvinas)"
+    },
+    {
+      "calling_codes": [
+        298
+      ],
+      "cca3": "FRO",
+      "currency": {
+        "emoji": "DKK",
+        "key": "DKK",
+        "symbol": "kr.",
+        "value": "Danish Krone"
+      },
+      "emoji": "🇫🇴",
+      "key": "FO",
+      "value": "Faroe Islands"
+    },
+    {
+      "calling_codes": [
+        679
+      ],
+      "cca3": "FJI",
+      "currency": {
+        "emoji": "FJD",
+        "key": "FJD",
+        "symbol": "FJ$",
+        "value": "Fiji Dollar"
+      },
+      "emoji": "🇫🇯",
+      "key": "FJ",
+      "value": "Fiji"
+    },
+    {
+      "calling_codes": [
+        358
+      ],
+      "cca3": "FIN",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇫🇮",
+      "key": "FI",
+      "value": "Finland"
+    },
+    {
+      "calling_codes": [
+        33
+      ],
+      "cca3": "FRA",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇫🇷",
+      "key": "FR",
+      "value": "France"
+    },
+    {
+      "calling_codes": [
+        594
+      ],
+      "cca3": "GUF",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇬🇫",
+      "key": "GF",
+      "value": "French Guiana"
+    },
+    {
+      "calling_codes": [
+        689
+      ],
+      "cca3": "PYF",
+      "currency": {
+        "emoji": "XPF",
+        "key": "XPF",
+        "symbol": "XPF ",
+        "value": "CFP Franc"
+      },
+      "emoji": "🇵🇫",
+      "key": "PF",
+      "value": "French Polynesia"
+    },
+    {
+      "calling_codes": [
+        1
+      ],
+      "cca3": "ATF",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇹🇫",
+      "key": "TF",
+      "value": "French Southern Territories"
+    },
+    {
+      "calling_codes": [
+        241
+      ],
+      "cca3": "GAB",
+      "currency": {
+        "emoji": "XAF",
+        "key": "XAF",
+        "symbol": "$",
+        "value": "CFA Franc BEAC"
+      },
+      "emoji": "🇬🇦",
+      "key": "GA",
+      "value": "Gabon"
+    },
+    {
+      "calling_codes": [
+        220
+      ],
+      "cca3": "GMB",
+      "currency": {
+        "emoji": "GMD",
+        "key": "GMD",
+        "symbol": "GMD ",
+        "value": "Dalasi"
+      },
+      "emoji": "🇬🇲",
+      "key": "GM",
+      "value": "Gambia"
+    },
+    {
+      "calling_codes": [
+        995
+      ],
+      "cca3": "GEO",
+      "currency": {
+        "emoji": "GEL",
+        "key": "GEL",
+        "symbol": "GEL ",
+        "value": "Lari"
+      },
+      "emoji": "🇬🇪",
+      "key": "GE",
+      "value": "Georgia"
+    },
+    {
+      "calling_codes": [
+        49
+      ],
+      "cca3": "DEU",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇩🇪",
+      "key": "DE",
+      "value": "Germany"
+    },
+    {
+      "calling_codes": [
+        233
+      ],
+      "cca3": "GHA",
+      "currency": {
+        "emoji": "GHS",
+        "key": "GHS",
+        "symbol": "₵",
+        "value": "Ghana Cedi"
+      },
+      "emoji": "🇬🇭",
+      "key": "GH",
+      "value": "Ghana"
+    },
+    {
+      "calling_codes": [
+        350
+      ],
+      "cca3": "GIB",
+      "currency": {
+        "emoji": "GIP",
+        "key": "GIP",
+        "symbol": "£",
+        "value": "Gibraltar Pound"
+      },
+      "emoji": "🇬🇮",
+      "key": "GI",
+      "value": "Gibraltar"
+    },
+    {
+      "calling_codes": [
+        30
+      ],
+      "cca3": "GRC",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇬🇷",
+      "key": "GR",
+      "value": "Greece"
+    },
+    {
+      "calling_codes": [
+        299
+      ],
+      "cca3": "GRL",
+      "currency": {
+        "emoji": "DKK",
+        "key": "DKK",
+        "symbol": "kr.",
+        "value": "Danish Krone"
+      },
+      "emoji": "🇬🇱",
+      "key": "GL",
+      "value": "Greenland"
+    },
+    {
+      "calling_codes": [
+        1473
+      ],
+      "cca3": "GRD",
+      "currency": {
+        "emoji": "XCD",
+        "key": "XCD",
+        "symbol": "$",
+        "value": "East Caribbean Dollar"
+      },
+      "emoji": "🇬🇩",
+      "key": "GD",
+      "value": "Grenada"
+    },
+    {
+      "calling_codes": [
+        590
+      ],
+      "cca3": "GLP",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇬🇵",
+      "key": "GP",
+      "value": "Guadeloupe"
+    },
+    {
+      "calling_codes": [
+        1671
+      ],
+      "cca3": "GUM",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇬🇺",
+      "key": "GU",
+      "value": "Guam"
+    },
+    {
+      "calling_codes": [
+        502
+      ],
+      "cca3": "GTM",
+      "currency": {
+        "emoji": "GTQ",
+        "key": "GTQ",
+        "symbol": "Q.",
+        "value": "Quetzal"
+      },
+      "emoji": "🇬🇹",
+      "key": "GT",
+      "value": "Guatemala"
+    },
+    {
+      "calling_codes": [
+        441481
+      ],
+      "cca3": "GGY",
+      "currency": {
+        "emoji": "💷",
+        "key": "GBP",
+        "symbol": "£",
+        "value": "Pound Sterling"
+      },
+      "emoji": "🇬🇬",
+      "key": "GG",
+      "value": "Guernsey"
+    },
+    {
+      "calling_codes": [
+        224
+      ],
+      "cca3": "GIN",
+      "currency": {
+        "emoji": "GNF",
+        "key": "GNF",
+        "symbol": "FG",
+        "value": "Guinea Franc"
+      },
+      "emoji": "🇬🇳",
+      "key": "GN",
+      "value": "Guinea"
+    },
+    {
+      "calling_codes": [
+        245
+      ],
+      "cca3": "GNB",
+      "currency": {
+        "emoji": "XOF",
+        "key": "XOF",
+        "symbol": "XOF ",
+        "value": "CFA Franc BCEAO"
+      },
+      "emoji": "🇬🇼",
+      "key": "GW",
+      "value": "Guinea-Bissau"
+    },
+    {
+      "calling_codes": [
+        592
+      ],
+      "cca3": "GUY",
+      "currency": {
+        "emoji": "GYD",
+        "key": "GYD",
+        "symbol": "$",
+        "value": "Guyana Dollar"
+      },
+      "emoji": "🇬🇾",
+      "key": "GY",
+      "value": "Guyana"
+    },
+    {
+      "calling_codes": [
+        509
+      ],
+      "cca3": "HTI",
+      "currency": {
+        "emoji": "HTG",
+        "key": "HTG",
+        "symbol": "G",
+        "value": "Gourde"
+      },
+      "emoji": "🇭🇹",
+      "key": "HT",
+      "value": "Haiti"
+    },
+    {
+      "calling_codes": [
+        61
+      ],
+      "cca3": "HMD",
+      "currency": {
+        "emoji": "AUD",
+        "key": "AUD",
+        "symbol": "$",
+        "value": "Australian Dollar"
+      },
+      "emoji": "🇭🇲",
+      "key": "HM",
+      "value": "Heard Island and McDonald Islands"
+    },
+    {
+      "calling_codes": [
+        3906698
+      ],
+      "cca3": "VAT",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇻🇦",
+      "key": "VA",
+      "value": "Holy See (Vatican City State)"
+    },
+    {
+      "calling_codes": [
+        504
+      ],
+      "cca3": "HND",
+      "currency": {
+        "emoji": "HNL",
+        "key": "HNL",
+        "symbol": "L",
+        "value": "Lempira"
+      },
+      "emoji": "🇭🇳",
+      "key": "HN",
+      "value": "Honduras"
+    },
+    {
+      "calling_codes": [
+        852
+      ],
+      "cca3": "HKG",
+      "currency": {
+        "emoji": "HKD",
+        "key": "HKD",
+        "symbol": "HK$",
+        "value": "Hong Kong Dollar"
+      },
+      "emoji": "🇭🇰",
+      "key": "HK",
+      "value": "Hong Kong (Special Administrative Region of China)"
+    },
+    {
+      "calling_codes": [
+        36
+      ],
+      "cca3": "HUN",
+      "currency": {
+        "emoji": "HUF",
+        "key": "HUF",
+        "symbol": "Ft",
+        "value": "Forint"
+      },
+      "emoji": "🇭🇺",
+      "key": "HU",
+      "value": "Hungary"
+    },
+    {
+      "calling_codes": [
+        354
+      ],
+      "cca3": "ISL",
+      "currency": {
+        "emoji": "ISK",
+        "key": "ISK",
+        "symbol": "kr",
+        "value": "Iceland Krona"
+      },
+      "emoji": "🇮🇸",
+      "key": "IS",
+      "value": "Iceland"
+    },
+    {
+      "calling_codes": [
+        91
+      ],
+      "cca3": "IND",
+      "currency": {
+        "emoji": "INR",
+        "key": "INR",
+        "symbol": "₹",
+        "value": "Indian Rupee"
+      },
+      "emoji": "🇮🇳",
+      "key": "IN",
+      "value": "India"
+    },
+    {
+      "calling_codes": [
+        62
+      ],
+      "cca3": "IDN",
+      "currency": {
+        "emoji": "IDR",
+        "key": "IDR",
+        "symbol": "Rp.",
+        "value": "Rupiah"
+      },
+      "emoji": "🇮🇩",
+      "key": "ID",
+      "value": "Indonesia"
+    },
+    {
+      "calling_codes": [
+        98
+      ],
+      "cca3": "IRN",
+      "currency": {
+        "emoji": "IRR",
+        "key": "IRR",
+        "symbol": "﷼",
+        "value": "Iranian Rial"
+      },
+      "emoji": "🇮🇷",
+      "key": "IR",
+      "value": "Iran (Islamic Republic of)"
+    },
+    {
+      "calling_codes": [
+        964
+      ],
+      "cca3": "IRQ",
+      "currency": {
+        "emoji": "IQD",
+        "key": "IQD",
+        "symbol": "د.ع",
+        "value": "Iraqi Dinar"
+      },
+      "emoji": "🇮🇶",
+      "key": "IQ",
+      "value": "Iraq"
+    },
+    {
+      "calling_codes": [
+        353
+      ],
+      "cca3": "IRL",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇮🇪",
+      "key": "IE",
+      "value": "Ireland"
+    },
+    {
+      "calling_codes": [
+        441624
+      ],
+      "cca3": "IMN",
+      "currency": {
+        "emoji": "💷",
+        "key": "GBP",
+        "symbol": "£",
+        "value": "Pound Sterling"
+      },
+      "emoji": "🇮🇲",
+      "key": "IM",
+      "value": "Isle Of Man"
+    },
+    {
+      "calling_codes": [
+        972
+      ],
+      "cca3": "ISR",
+      "currency": {
+        "emoji": "ILS",
+        "key": "ILS",
+        "symbol": "₪",
+        "value": "New Israeli Sheqel"
+      },
+      "emoji": "🇮🇱",
+      "key": "IL",
+      "value": "Israel"
+    },
+    {
+      "calling_codes": [
+        39
+      ],
+      "cca3": "ITA",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇮🇹",
+      "key": "IT",
+      "value": "Italy"
+    },
+    {
+      "calling_codes": [
+        1876,
+        1658
+      ],
+      "cca3": "JAM",
+      "currency": {
+        "emoji": "JMD",
+        "key": "JMD",
+        "symbol": "$",
+        "value": "Jamaican Dollar"
+      },
+      "emoji": "🇯🇲",
+      "key": "JM",
+      "value": "Jamaica"
+    },
+    {
+      "calling_codes": [
+        81
+      ],
+      "cca3": "JPN",
+      "currency": {
+        "emoji": "💴",
+        "key": "JPY",
+        "symbol": "¥",
+        "value": "Yen"
+      },
+      "emoji": "🇯🇵",
+      "key": "JP",
+      "value": "Japan"
+    },
+    {
+      "calling_codes": [
+        441534
+      ],
+      "cca3": "JEY",
+      "currency": {
+        "emoji": "💷",
+        "key": "GBP",
+        "symbol": "£",
+        "value": "Pound Sterling"
+      },
+      "emoji": "🇯🇪",
+      "key": "JE",
+      "value": "Jersey"
+    },
+    {
+      "calling_codes": [
+        962
+      ],
+      "cca3": "JOR",
+      "currency": {
+        "emoji": "JOD",
+        "key": "JOD",
+        "symbol": "JD",
+        "value": "Jordanian Dinar"
+      },
+      "emoji": "🇯🇴",
+      "key": "JO",
+      "value": "Jordan"
+    },
+    {
+      "calling_codes": [
+        7
+      ],
+      "cca3": "KAZ",
+      "currency": {
+        "emoji": "KZT",
+        "key": "KZT",
+        "symbol": "₸",
+        "value": "Tenge"
+      },
+      "emoji": "🇰🇿",
+      "key": "KZ",
+      "value": "Kazakhstan"
+    },
+    {
+      "calling_codes": [
+        254
+      ],
+      "cca3": "KEN",
+      "currency": {
+        "emoji": "KES",
+        "key": "KES",
+        "symbol": "Ksh",
+        "value": "Kenyan Shilling"
+      },
+      "emoji": "🇰🇪",
+      "key": "KE",
+      "value": "Kenya"
+    },
+    {
+      "calling_codes": [
+        686
+      ],
+      "cca3": "KIR",
+      "currency": {
+        "emoji": "AUD",
+        "key": "AUD",
+        "symbol": "$",
+        "value": "Australian Dollar"
+      },
+      "emoji": "🇰🇮",
+      "key": "KI",
+      "value": "Kiribati"
+    },
+    {
+      "calling_codes": [
+        383
+      ],
+      "cca3": "XKX",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇽🇰",
+      "key": "XK",
+      "value": "Kosovo"
+    },
+    {
+      "calling_codes": [
+        965
+      ],
+      "cca3": "KWT",
+      "currency": {
+        "emoji": "KWD",
+        "key": "KWD",
+        "symbol": "ك",
+        "value": "Kuwaiti Dinar"
+      },
+      "emoji": "🇰🇼",
+      "key": "KW",
+      "value": "Kuwait"
+    },
+    {
+      "calling_codes": [
+        996
+      ],
+      "cca3": "KGZ",
+      "currency": {
+        "emoji": "KGS",
+        "key": "KGS",
+        "symbol": "лв",
+        "value": "Som"
+      },
+      "emoji": "🇰🇬",
+      "key": "KG",
+      "value": "Kyrgyzstan"
+    },
+    {
+      "calling_codes": [
+        856
+      ],
+      "cca3": "LAO",
+      "currency": {
+        "emoji": "LAK",
+        "key": "LAK",
+        "symbol": "₭",
+        "value": "Kip"
+      },
+      "emoji": "🇱🇦",
+      "key": "LA",
+      "value": "Lao People`s Democratic Republic"
+    },
+    {
+      "calling_codes": [
+        371
+      ],
+      "cca3": "LVA",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇱🇻",
+      "key": "LV",
+      "value": "Latvia"
+    },
+    {
+      "calling_codes": [
+        961
+      ],
+      "cca3": "LBN",
+      "currency": {
+        "emoji": "LBP",
+        "key": "LBP",
+        "symbol": "ل.ل",
+        "value": "Lebanese Pound"
+      },
+      "emoji": "🇱🇧",
+      "key": "LB",
+      "value": "Lebanon"
+    },
+    {
+      "calling_codes": [
+        266
+      ],
+      "cca3": "LSO",
+      "currency": {
+        "emoji": "LSL",
+        "key": "LSL",
+        "symbol": "LSL ",
+        "value": "Loti"
+      },
+      "emoji": "🇱🇸",
+      "key": "LS",
+      "value": "Lesotho"
+    },
+    {
+      "calling_codes": [
+        231
+      ],
+      "cca3": "LBR",
+      "currency": {
+        "emoji": "LRD",
+        "key": "LRD",
+        "symbol": "$",
+        "value": "Liberian Dollar"
+      },
+      "emoji": "🇱🇷",
+      "key": "LR",
+      "value": "Liberia"
+    },
+    {
+      "calling_codes": [
+        218
+      ],
+      "cca3": "LBY",
+      "currency": {
+        "emoji": "LYD",
+        "key": "LYD",
+        "symbol": "LD ",
+        "value": "Libyan Dinar"
+      },
+      "emoji": "🇱🇾",
+      "key": "LY",
+      "value": "Libyan Arab Jamahiriya"
+    },
+    {
+      "calling_codes": [
+        423
+      ],
+      "cca3": "LIE",
+      "currency": {
+        "emoji": "CHF",
+        "key": "CHF",
+        "symbol": "CHF ",
+        "value": "Swiss Franc"
+      },
+      "emoji": "🇱🇮",
+      "key": "LI",
+      "value": "Liechtenstein"
+    },
+    {
+      "calling_codes": [
+        370
+      ],
+      "cca3": "LTU",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇱🇹",
+      "key": "LT",
+      "value": "Lithuania"
+    },
+    {
+      "calling_codes": [
+        352
+      ],
+      "cca3": "LUX",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇱🇺",
+      "key": "LU",
+      "value": "Luxembourg"
+    },
+    {
+      "calling_codes": [
+        853
+      ],
+      "cca3": "MAC",
+      "currency": {
+        "emoji": "MOP",
+        "key": "MOP",
+        "symbol": "MOP$",
+        "value": "Pataca"
+      },
+      "emoji": "🇲🇴",
+      "key": "MO",
+      "value": "Macau (Special Administrative Region of China)"
+    },
+    {
+      "calling_codes": [
+        261
+      ],
+      "cca3": "MDG",
+      "currency": {
+        "emoji": "MGA",
+        "key": "MGA",
+        "symbol": "",
+        "value": "Malagasy Ariary"
+      },
+      "emoji": "🇲🇬",
+      "key": "MG",
+      "value": "Madagascar"
+    },
+    {
+      "calling_codes": [
+        265
+      ],
+      "cca3": "MWI",
+      "currency": {
+        "emoji": "MWK",
+        "key": "MWK",
+        "symbol": "MK ",
+        "value": "Kwacha"
+      },
+      "emoji": "🇲🇼",
+      "key": "MW",
+      "value": "Malawi"
+    },
+    {
+      "calling_codes": [
+        60
+      ],
+      "cca3": "MYS",
+      "currency": {
+        "emoji": "MYR",
+        "key": "MYR",
+        "symbol": "RM",
+        "value": "Malaysian Ringgit"
+      },
+      "emoji": "🇲🇾",
+      "key": "MY",
+      "value": "Malaysia"
+    },
+    {
+      "calling_codes": [
+        960
+      ],
+      "cca3": "MDV",
+      "currency": {
+        "emoji": "MVR",
+        "key": "MVR",
+        "symbol": "MVR ",
+        "value": "Rufiyaa"
+      },
+      "emoji": "🇲🇻",
+      "key": "MV",
+      "value": "Maldives"
+    },
+    {
+      "calling_codes": [
+        223
+      ],
+      "cca3": "MLI",
+      "currency": {
+        "emoji": "XOF",
+        "key": "XOF",
+        "symbol": "XOF ",
+        "value": "CFA Franc BCEAO"
+      },
+      "emoji": "🇲🇱",
+      "key": "ML",
+      "value": "Mali"
+    },
+    {
+      "calling_codes": [
+        356
+      ],
+      "cca3": "MLT",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇲🇹",
+      "key": "MT",
+      "value": "Malta"
+    },
+    {
+      "calling_codes": [
+        692
+      ],
+      "cca3": "MHL",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇲🇭",
+      "key": "MH",
+      "value": "Marshall Islands"
+    },
+    {
+      "calling_codes": [
+        596
+      ],
+      "cca3": "MTQ",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇲🇶",
+      "key": "MQ",
+      "value": "Martinique"
+    },
+    {
+      "calling_codes": [
+        222
+      ],
+      "cca3": "MRT",
+      "currency": {
+        "emoji": "MRU",
+        "key": "MRU",
+        "symbol": "",
+        "value": "Ouguiya"
+      },
+      "emoji": "🇲🇷",
+      "key": "MR",
+      "value": "Mauritania"
+    },
+    {
+      "calling_codes": [
+        230
+      ],
+      "cca3": "MUS",
+      "currency": {
+        "emoji": "MUR",
+        "key": "MUR",
+        "symbol": "Rs",
+        "value": "Mauritius Rupee"
+      },
+      "emoji": "🇲🇺",
+      "key": "MU",
+      "value": "Mauritius"
+    },
+    {
+      "calling_codes": [
+        262269,
+        262639
+      ],
+      "cca3": "MYT",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇾🇹",
+      "key": "YT",
+      "value": "Mayotte"
+    },
+    {
+      "calling_codes": [
+        52
+      ],
+      "cca3": "MEX",
+      "currency": {
+        "emoji": "MXN",
+        "key": "MXN",
+        "symbol": "$",
+        "value": "Mexican Peso"
+      },
+      "emoji": "🇲🇽",
+      "key": "MX",
+      "value": "Mexico"
+    },
+    {
+      "calling_codes": [
+        691
+      ],
+      "cca3": "FSM",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇫🇲",
+      "key": "FM",
+      "value": "Micronesia (Federated States of)"
+    },
+    {
+      "calling_codes": [
+        373
+      ],
+      "cca3": "MDA",
+      "currency": {
+        "emoji": "MDL",
+        "key": "MDL",
+        "symbol": "MDL ",
+        "value": "Moldovan Leu"
+      },
+      "emoji": "🇲🇩",
+      "key": "MD",
+      "value": "Moldova (Republic of)"
+    },
+    {
+      "calling_codes": [
+        377
+      ],
+      "cca3": "MCO",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇲🇨",
+      "key": "MC",
+      "value": "Monaco"
+    },
+    {
+      "calling_codes": [
+        976
+      ],
+      "cca3": "MNG",
+      "currency": {
+        "emoji": "MNT",
+        "key": "MNT",
+        "symbol": "₮",
+        "value": "Tugrik"
+      },
+      "emoji": "🇲🇳",
+      "key": "MN",
+      "value": "Mongolia"
+    },
+    {
+      "calling_codes": [
+        382
+      ],
+      "cca3": "MNE",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇲🇪",
+      "key": "ME",
+      "value": "Montenegro"
+    },
+    {
+      "calling_codes": [
+        1664
+      ],
+      "cca3": "MSR",
+      "currency": {
+        "emoji": "XCD",
+        "key": "XCD",
+        "symbol": "$",
+        "value": "East Caribbean Dollar"
+      },
+      "emoji": "🇲🇸",
+      "key": "MS",
+      "value": "Montserrat"
+    },
+    {
+      "calling_codes": [
+        212
+      ],
+      "cca3": "MAR",
+      "currency": {
+        "emoji": "MAD",
+        "key": "MAD",
+        "symbol": "MAD ",
+        "value": "Moroccan Dirham"
+      },
+      "emoji": "🇲🇦",
+      "key": "MA",
+      "value": "Morocco"
+    },
+    {
+      "calling_codes": [
+        258
+      ],
+      "cca3": "MOZ",
+      "currency": {
+        "emoji": "MZN",
+        "key": "MZN",
+        "symbol": "Mt",
+        "value": "Mozambique Metical"
+      },
+      "emoji": "🇲🇿",
+      "key": "MZ",
+      "value": "Mozambique"
+    },
+    {
+      "calling_codes": [
+        95
+      ],
+      "cca3": "MMR",
+      "currency": {
+        "emoji": "MMK",
+        "key": "MMK",
+        "symbol": "K",
+        "value": "Kyat"
+      },
+      "emoji": "🇲🇲",
+      "key": "MM",
+      "value": "Myanmar"
+    },
+    {
+      "calling_codes": [
+        264
+      ],
+      "cca3": "NAM",
+      "currency": {
+        "emoji": "NAD",
+        "key": "NAD",
+        "symbol": "$",
+        "value": "Namibia Dollar"
+      },
+      "emoji": "🇳🇦",
+      "key": "NA",
+      "value": "Namibia"
+    },
+    {
+      "calling_codes": [
+        674
+      ],
+      "cca3": "NRU",
+      "currency": {
+        "emoji": "AUD",
+        "key": "AUD",
+        "symbol": "$",
+        "value": "Australian Dollar"
+      },
+      "emoji": "🇳🇷",
+      "key": "NR",
+      "value": "Nauru"
+    },
+    {
+      "calling_codes": [
+        977
+      ],
+      "cca3": "NPL",
+      "currency": {
+        "emoji": "NPR",
+        "key": "NPR",
+        "symbol": "Rs.",
+        "value": "Nepalese Rupee"
+      },
+      "emoji": "🇳🇵",
+      "key": "NP",
+      "value": "Nepal"
+    },
+    {
+      "calling_codes": [
+        31
+      ],
+      "cca3": "NLD",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇳🇱",
+      "key": "NL",
+      "value": "Netherlands"
+    },
+    {
+      "calling_codes": [
+        599
+      ],
+      "cca3": "ANT",
+      "currency": {
+        "emoji": "ANG",
+        "key": "ANG",
+        "symbol": "ƒ",
+        "value": "Netherlands Antillean Guilder"
+      },
+      "emoji": "🇦🇳",
+      "key": "AN",
+      "value": "Netherlands Antilles"
+    },
+    {
+      "calling_codes": [
+        687
+      ],
+      "cca3": "NCL",
+      "currency": {
+        "emoji": "XPF",
+        "key": "XPF",
+        "symbol": "XPF ",
+        "value": "CFP Franc"
+      },
+      "emoji": "🇳🇨",
+      "key": "NC",
+      "value": "New Caledonia"
+    },
+    {
+      "calling_codes": [
+        64
+      ],
+      "cca3": "NZL",
+      "currency": {
+        "emoji": "NZD",
+        "key": "NZD",
+        "symbol": "$",
+        "value": "New Zealand Dollar"
+      },
+      "emoji": "🇳🇿",
+      "key": "NZ",
+      "value": "New Zealand"
+    },
+    {
+      "calling_codes": [
+        505
+      ],
+      "cca3": "NIC",
+      "currency": {
+        "emoji": "NIO",
+        "key": "NIO",
+        "symbol": "C$",
+        "value": "Cordoba Oro"
+      },
+      "emoji": "🇳🇮",
+      "key": "NI",
+      "value": "Nicaragua"
+    },
+    {
+      "calling_codes": [
+        227
+      ],
+      "cca3": "NER",
+      "currency": {
+        "emoji": "XOF",
+        "key": "XOF",
+        "symbol": "XOF ",
+        "value": "CFA Franc BCEAO"
+      },
+      "emoji": "🇳🇪",
+      "key": "NE",
+      "value": "Niger"
+    },
+    {
+      "calling_codes": [
+        234
+      ],
+      "cca3": "NGA",
+      "currency": {
+        "emoji": "NGN",
+        "key": "NGN",
+        "symbol": "₦",
+        "value": "Naira"
+      },
+      "emoji": "🇳🇬",
+      "key": "NG",
+      "value": "Nigeria"
+    },
+    {
+      "calling_codes": [
+        683
+      ],
+      "cca3": "NIU",
+      "currency": {
+        "emoji": "NZD",
+        "key": "NZD",
+        "symbol": "$",
+        "value": "New Zealand Dollar"
+      },
+      "emoji": "🇳🇺",
+      "key": "NU",
+      "value": "Niue"
+    },
+    {
+      "calling_codes": [
+        672
+      ],
+      "cca3": "NFK",
+      "currency": {
+        "emoji": "AUD",
+        "key": "AUD",
+        "symbol": "$",
+        "value": "Australian Dollar"
+      },
+      "emoji": "🇳🇫",
+      "key": "NF",
+      "value": "Norfolk Island"
+    },
+    {
+      "calling_codes": [
+        389
+      ],
+      "cca3": "MKD",
+      "currency": {
+        "emoji": "MKD",
+        "key": "MKD",
+        "symbol": "ден",
+        "value": "Denar"
+      },
+      "emoji": "🇲🇰",
+      "key": "MK",
+      "value": "North Macedonia (Republic of North Macedonia)"
+    },
+    {
+      "calling_codes": [
+        1670
+      ],
+      "cca3": "MNP",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇲🇵",
+      "key": "MP",
+      "value": "Northern Mariana Islands"
+    },
+    {
+      "calling_codes": [
+        47
+      ],
+      "cca3": "NOR",
+      "currency": {
+        "emoji": "NOK",
+        "key": "NOK",
+        "symbol": "kr",
+        "value": "Norwegian Krone"
+      },
+      "emoji": "🇳🇴",
+      "key": "NO",
+      "value": "Norway"
+    },
+    {
+      "calling_codes": [
+        968
+      ],
+      "cca3": "OMN",
+      "currency": {
+        "emoji": "OMR",
+        "key": "OMR",
+        "symbol": "RO",
+        "value": "Rial Omani"
+      },
+      "emoji": "🇴🇲",
+      "key": "OM",
+      "value": "Oman"
+    },
+    {
+      "calling_codes": [
+        92
+      ],
+      "cca3": "PAK",
+      "currency": {
+        "emoji": "PKR",
+        "key": "PKR",
+        "symbol": "Rs",
+        "value": "Pakistan Rupee"
+      },
+      "emoji": "🇵🇰",
+      "key": "PK",
+      "value": "Pakistan"
+    },
+    {
+      "calling_codes": [
+        680
+      ],
+      "cca3": "PLW",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇵🇼",
+      "key": "PW",
+      "value": "Palau"
+    },
+    {
+      "calling_codes": [
+        970
+      ],
+      "cca3": "PSE",
+      "currency": {
+        "emoji": "ILS",
+        "key": "ILS",
+        "symbol": "₪",
+        "value": "New Israeli Sheqel"
+      },
+      "emoji": "🇵🇸",
+      "key": "PS",
+      "value": "Palestinian Territory (Occupied)"
+    },
+    {
+      "calling_codes": [
+        507
+      ],
+      "cca3": "PAN",
+      "currency": {
+        "emoji": "PAB",
+        "key": "PAB",
+        "symbol": "B/.",
+        "value": "Balboa"
+      },
+      "emoji": "🇵🇦",
+      "key": "PA",
+      "value": "Panama"
+    },
+    {
+      "calling_codes": [
+        675
+      ],
+      "cca3": "PNG",
+      "currency": {
+        "emoji": "PGK",
+        "key": "PGK",
+        "symbol": "K",
+        "value": "Kina"
+      },
+      "emoji": "🇵🇬",
+      "key": "PG",
+      "value": "Papua New Guinea"
+    },
+    {
+      "calling_codes": [
+        595
+      ],
+      "cca3": "PRY",
+      "currency": {
+        "emoji": "PYG",
+        "key": "PYG",
+        "symbol": "Gs",
+        "value": "Guarani"
+      },
+      "emoji": "🇵🇾",
+      "key": "PY",
+      "value": "Paraguay"
+    },
+    {
+      "calling_codes": [
+        51
+      ],
+      "cca3": "PER",
+      "currency": {
+        "emoji": "PEN",
+        "key": "PEN",
+        "symbol": "S/.",
+        "value": "Nuevo Sol"
+      },
+      "emoji": "🇵🇪",
+      "key": "PE",
+      "value": "Peru"
+    },
+    {
+      "calling_codes": [
+        63
+      ],
+      "cca3": "PHL",
+      "currency": {
+        "emoji": "PHP",
+        "key": "PHP",
+        "symbol": "₱",
+        "value": "Philippine Peso"
+      },
+      "emoji": "🇵🇭",
+      "key": "PH",
+      "value": "Philippines"
+    },
+    {
+      "calling_codes": [
+        64
+      ],
+      "cca3": "PCN",
+      "currency": {
+        "emoji": "NZD",
+        "key": "NZD",
+        "symbol": "$",
+        "value": "New Zealand Dollar"
+      },
+      "emoji": "🇵🇳",
+      "key": "PN",
+      "value": "Pitcairn"
+    },
+    {
+      "calling_codes": [
+        48
+      ],
+      "cca3": "POL",
+      "currency": {
+        "emoji": "PLN",
+        "key": "PLN",
+        "symbol": "zł",
+        "value": "Zloty"
+      },
+      "emoji": "🇵🇱",
+      "key": "PL",
+      "value": "Poland"
+    },
+    {
+      "calling_codes": [
+        351
+      ],
+      "cca3": "PRT",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇵🇹",
+      "key": "PT",
+      "value": "Portugal"
+    },
+    {
+      "calling_codes": [
+        1787,
+        1939
+      ],
+      "cca3": "PRI",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇵🇷",
+      "key": "PR",
+      "value": "Puerto Rico"
+    },
+    {
+      "calling_codes": [
+        974
+      ],
+      "cca3": "QAT",
+      "currency": {
+        "emoji": "QAR",
+        "key": "QAR",
+        "symbol": "﷼ ",
+        "value": "Qatari Rial"
+      },
+      "emoji": "🇶🇦",
+      "key": "QA",
+      "value": "Qatar"
+    },
+    {
+      "calling_codes": [
+        82
+      ],
+      "cca3": "KOR",
+      "currency": {
+        "emoji": "KRW",
+        "key": "KRW",
+        "symbol": "₩",
+        "value": "Won"
+      },
+      "emoji": "🇰🇷",
+      "key": "KR",
+      "value": "Republic of Korea"
+    },
+    {
+      "calling_codes": [
+        262
+      ],
+      "cca3": "REU",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇷🇪",
+      "key": "RE",
+      "value": "Reunion"
+    },
+    {
+      "calling_codes": [
+        40
+      ],
+      "cca3": "ROU",
+      "currency": {
+        "emoji": "RON",
+        "key": "RON",
+        "symbol": "lei",
+        "value": "Romanian Leu"
+      },
+      "emoji": "🇷🇴",
+      "key": "RO",
+      "value": "Romania"
+    },
+    {
+      "calling_codes": [
+        7
+      ],
+      "cca3": "RUS",
+      "currency": {
+        "emoji": "RUB",
+        "key": "RUB",
+        "symbol": "₽",
+        "value": "Russian Ruble"
+      },
+      "emoji": "🇷🇺",
+      "key": "RU",
+      "value": "Russian Federation"
+    },
+    {
+      "calling_codes": [
+        250
+      ],
+      "cca3": "RWA",
+      "currency": {
+        "emoji": "RWF",
+        "key": "RWF",
+        "symbol": "RWF ",
+        "value": "Rwanda Franc"
+      },
+      "emoji": "🇷🇼",
+      "key": "RW",
+      "value": "Rwanda"
+    },
+    {
+      "calling_codes": [
+        590
+      ],
+      "cca3": "BLM",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇧🇱",
+      "key": "BL",
+      "value": "Saint Barthelemy"
+    },
+    {
+      "calling_codes": [
+        290
+      ],
+      "cca3": "SHN",
+      "currency": {
+        "emoji": "SHP",
+        "key": "SHP",
+        "symbol": "£",
+        "value": "Saint Helena Pound"
+      },
+      "emoji": "🇸🇭",
+      "key": "SH",
+      "value": "Saint Helena"
+    },
+    {
+      "calling_codes": [
+        1869
+      ],
+      "cca3": "KNA",
+      "currency": {
+        "emoji": "XCD",
+        "key": "XCD",
+        "symbol": "$",
+        "value": "East Caribbean Dollar"
+      },
+      "emoji": "🇰🇳",
+      "key": "KN",
+      "value": "Saint Kitts and Nevis"
+    },
+    {
+      "calling_codes": [
+        1758
+      ],
+      "cca3": "LCA",
+      "currency": {
+        "emoji": "XCD",
+        "key": "XCD",
+        "symbol": "$",
+        "value": "East Caribbean Dollar"
+      },
+      "emoji": "🇱🇨",
+      "key": "LC",
+      "value": "Saint Lucia"
+    },
+    {
+      "calling_codes": [
+        590
+      ],
+      "cca3": "MAF",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇲🇫",
+      "key": "MF",
+      "value": "Saint Martin French"
+    },
+    {
+      "calling_codes": [
+        508
+      ],
+      "cca3": "SPM",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇵🇲",
+      "key": "PM",
+      "value": "Saint Pierre and Miquelon"
+    },
+    {
+      "calling_codes": [
+        1784
+      ],
+      "cca3": "VCT",
+      "currency": {
+        "emoji": "XCD",
+        "key": "XCD",
+        "symbol": "$",
+        "value": "East Caribbean Dollar"
+      },
+      "emoji": "🇻🇨",
+      "key": "VC",
+      "value": "Saint Vincent and the Grenadines"
+    },
+    {
+      "calling_codes": [
+        685
+      ],
+      "cca3": "WSM",
+      "currency": {
+        "emoji": "WST",
+        "key": "WST",
+        "symbol": "WST ",
+        "value": "Tala"
+      },
+      "emoji": "🇼🇸",
+      "key": "WS",
+      "value": "Samoa"
+    },
+    {
+      "calling_codes": [
+        378
+      ],
+      "cca3": "SMR",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇸🇲",
+      "key": "SM",
+      "value": "San Marino"
+    },
+    {
+      "calling_codes": [
+        239
+      ],
+      "cca3": "STP",
+      "currency": {
+        "emoji": "STN",
+        "key": "STN",
+        "symbol": "",
+        "value": "Dobra"
+      },
+      "emoji": "🇸🇹",
+      "key": "ST",
+      "value": "Sao Tome and Principe"
+    },
+    {
+      "calling_codes": [
+        966
+      ],
+      "cca3": "SAU",
+      "currency": {
+        "emoji": "SAR",
+        "key": "SAR",
+        "symbol": "﷼",
+        "value": "Saudi Riyal"
+      },
+      "emoji": "🇸🇦",
+      "key": "SA",
+      "value": "Saudi Arabia"
+    },
+    {
+      "calling_codes": [
+        221
+      ],
+      "cca3": "SEN",
+      "currency": {
+        "emoji": "XOF",
+        "key": "XOF",
+        "symbol": "XOF ",
+        "value": "CFA Franc BCEAO"
+      },
+      "emoji": "🇸🇳",
+      "key": "SN",
+      "value": "Senegal"
+    },
+    {
+      "calling_codes": [
+        381
+      ],
+      "cca3": "SRB",
+      "currency": {
+        "emoji": "RSD",
+        "key": "RSD",
+        "symbol": "РСД",
+        "value": "Serbian Dinar"
+      },
+      "emoji": "🇷🇸",
+      "key": "RS",
+      "value": "Serbia"
+    },
+    {
+      "calling_codes": [
+        248
+      ],
+      "cca3": "SYC",
+      "currency": {
+        "emoji": "SCR",
+        "key": "SCR",
+        "symbol": "₨",
+        "value": "Seychelles Rupee"
+      },
+      "emoji": "🇸🇨",
+      "key": "SC",
+      "value": "Seychelles"
+    },
+    {
+      "calling_codes": [
+        232
+      ],
+      "cca3": "SLE",
+      "currency": {
+        "emoji": "SLL",
+        "key": "SLL",
+        "symbol": "Le ",
+        "value": "Leone"
+      },
+      "emoji": "🇸🇱",
+      "key": "SL",
+      "value": "Sierra Leone"
+    },
+    {
+      "calling_codes": [
+        65
+      ],
+      "cca3": "SGP",
+      "currency": {
+        "emoji": "SGD",
+        "key": "SGD",
+        "symbol": "$",
+        "value": "Singapore Dollar"
+      },
+      "emoji": "🇸🇬",
+      "key": "SG",
+      "value": "Singapore"
+    },
+    {
+      "calling_codes": [
+        1721
+      ],
+      "cca3": "SXM",
+      "currency": {
+        "emoji": "ANG",
+        "key": "ANG",
+        "symbol": "ƒ",
+        "value": "Netherlands Antillean Guilder"
+      },
+      "emoji": "🇸🇽",
+      "key": "SX",
+      "value": "Sint Maarten Dutch"
+    },
+    {
+      "calling_codes": [
+        421
+      ],
+      "cca3": "SVK",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇸🇰",
+      "key": "SK",
+      "value": "Slovakia"
+    },
+    {
+      "calling_codes": [
+        386
+      ],
+      "cca3": "SVN",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇸🇮",
+      "key": "SI",
+      "value": "Slovenia"
+    },
+    {
+      "calling_codes": [
+        677
+      ],
+      "cca3": "SLB",
+      "currency": {
+        "emoji": "SBD",
+        "key": "SBD",
+        "symbol": "$",
+        "value": "Solomon Islands Dollar"
+      },
+      "emoji": "🇸🇧",
+      "key": "SB",
+      "value": "Solomon Islands"
+    },
+    {
+      "calling_codes": [
+        252
+      ],
+      "cca3": "SOM",
+      "currency": {
+        "emoji": "SOS",
+        "key": "SOS",
+        "symbol": "S",
+        "value": "Somali Shilling"
+      },
+      "emoji": "🇸🇴",
+      "key": "SO",
+      "value": "Somalia"
+    },
+    {
+      "calling_codes": [
+        27
+      ],
+      "cca3": "ZAF",
+      "currency": {
+        "emoji": "ZAR",
+        "key": "ZAR",
+        "symbol": "R",
+        "value": "Rand"
+      },
+      "emoji": "🇿🇦",
+      "key": "ZA",
+      "value": "South Africa"
+    },
+    {
+      "calling_codes": [
+        500
+      ],
+      "cca3": "SGS",
+      "currency": {
+        "emoji": "💷",
+        "key": "GBP",
+        "symbol": "£",
+        "value": "Pound Sterling"
+      },
+      "emoji": "🇬🇸",
+      "key": "GS",
+      "value": "South Georgia and The South Sandwich Islands"
+    },
+    {
+      "calling_codes": [
+        211
+      ],
+      "cca3": "SSD",
+      "currency": {
+        "emoji": "SSP",
+        "key": "SSP",
+        "symbol": "",
+        "value": "South Sudanese Pound"
+      },
+      "emoji": "🇸🇸",
+      "key": "SS",
+      "value": "South Sudan"
+    },
+    {
+      "calling_codes": [
+        34
+      ],
+      "cca3": "ESP",
+      "currency": {
+        "emoji": "💶",
+        "key": "EUR",
+        "symbol": "€",
+        "value": "Euro"
+      },
+      "emoji": "🇪🇸",
+      "key": "ES",
+      "value": "Spain"
+    },
+    {
+      "calling_codes": [
+        94
+      ],
+      "cca3": "LKA",
+      "currency": {
+        "emoji": "LKR",
+        "key": "LKR",
+        "symbol": "₨",
+        "value": "Sri Lanka Rupee"
+      },
+      "emoji": "🇱🇰",
+      "key": "LK",
+      "value": "Sri Lanka"
+    },
+    {
+      "calling_codes": [
+        249
+      ],
+      "cca3": "SDN",
+      "currency": {
+        "emoji": "SDG",
+        "key": "SDG",
+        "symbol": "LSd",
+        "value": "Sudanese Pound"
+      },
+      "emoji": "🇸🇩",
+      "key": "SD",
+      "value": "Sudan"
+    },
+    {
+      "calling_codes": [
+        597
+      ],
+      "cca3": "SUR",
+      "currency": {
+        "emoji": "SRD",
+        "key": "SRD",
+        "symbol": "",
+        "value": "Surinam Dollar"
+      },
+      "emoji": "🇸🇷",
+      "key": "SR",
+      "value": "Suriname"
+    },
+    {
+      "calling_codes": [
+        4779
+      ],
+      "cca3": "SJM",
+      "currency": {
+        "emoji": "NOK",
+        "key": "NOK",
+        "symbol": "kr",
+        "value": "Norwegian Krone"
+      },
+      "emoji": "🇸🇯",
+      "key": "SJ",
+      "value": "Svalbard and Jan Mayen Islands"
+    },
+    {
+      "calling_codes": [
+        268
+      ],
+      "cca3": "SWZ",
+      "currency": {
+        "emoji": "SZL",
+        "key": "SZL",
+        "symbol": "E",
+        "value": "Lilangeni"
+      },
+      "emoji": "🇸🇿",
+      "key": "SZ",
+      "value": "Swaziland"
+    },
+    {
+      "calling_codes": [
+        46
+      ],
+      "cca3": "SWE",
+      "currency": {
+        "emoji": "SEK",
+        "key": "SEK",
+        "symbol": "kr",
+        "value": "Swedish Krona"
+      },
+      "emoji": "🇸🇪",
+      "key": "SE",
+      "value": "Sweden"
+    },
+    {
+      "calling_codes": [
+        41
+      ],
+      "cca3": "CHE",
+      "currency": {
+        "emoji": "CHF",
+        "key": "CHF",
+        "symbol": "CHF ",
+        "value": "Swiss Franc"
+      },
+      "emoji": "🇨🇭",
+      "key": "CH",
+      "value": "Switzerland"
+    },
+    {
+      "calling_codes": [
+        963
+      ],
+      "cca3": "SYR",
+      "currency": {
+        "emoji": "SYP",
+        "key": "SYP",
+        "symbol": "£",
+        "value": "Syrian Pound"
+      },
+      "emoji": "🇸🇾",
+      "key": "SY",
+      "value": "Syrian Arab Republic"
+    },
+    {
+      "calling_codes": [
+        886
+      ],
+      "cca3": "TWN",
+      "currency": {
+        "emoji": "TWD",
+        "key": "TWD",
+        "symbol": "NT$",
+        "value": "New Taiwan Dollar"
+      },
+      "emoji": "🇹🇼",
+      "key": "TW",
+      "value": "Taiwan (Province of China)"
+    },
+    {
+      "calling_codes": [
+        992
+      ],
+      "cca3": "TJK",
+      "currency": {
+        "emoji": "TJS",
+        "key": "TJS",
+        "symbol": "TJS ",
+        "value": "Somoni"
+      },
+      "emoji": "🇹🇯",
+      "key": "TJ",
+      "value": "Tajikistan"
+    },
+    {
+      "calling_codes": [
+        255
+      ],
+      "cca3": "TZA",
+      "currency": {
+        "emoji": "TZS",
+        "key": "TZS",
+        "symbol": "TZs",
+        "value": "Tanzanian Shilling"
+      },
+      "emoji": "🇹🇿",
+      "key": "TZ",
+      "value": "Tanzania (United Republic of)"
+    },
+    {
+      "calling_codes": [
+        66
+      ],
+      "cca3": "THA",
+      "currency": {
+        "emoji": "THB",
+        "key": "THB",
+        "symbol": "Bt",
+        "value": "Baht"
+      },
+      "emoji": "🇹🇭",
+      "key": "TH",
+      "value": "Thailand"
+    },
+    {
+      "calling_codes": [
+        670
+      ],
+      "cca3": "TLS",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇹🇱",
+      "key": "TL",
+      "value": "Timor-Leste (East Timor)"
+    },
+    {
+      "calling_codes": [
+        228
+      ],
+      "cca3": "TGO",
+      "currency": {
+        "emoji": "XOF",
+        "key": "XOF",
+        "symbol": "XOF ",
+        "value": "CFA Franc BCEAO"
+      },
+      "emoji": "🇹🇬",
+      "key": "TG",
+      "value": "Togo"
+    },
+    {
+      "calling_codes": [
+        690
+      ],
+      "cca3": "TKL",
+      "currency": {
+        "emoji": "NZD",
+        "key": "NZD",
+        "symbol": "$",
+        "value": "New Zealand Dollar"
+      },
+      "emoji": "🇹🇰",
+      "key": "TK",
+      "value": "Tokelau"
+    },
+    {
+      "calling_codes": [
+        676
+      ],
+      "cca3": "TON",
+      "currency": {
+        "emoji": "TOP",
+        "key": "TOP",
+        "symbol": "$",
+        "value": "Pa’anga"
+      },
+      "emoji": "🇹🇴",
+      "key": "TO",
+      "value": "Tonga"
+    },
+    {
+      "calling_codes": [
+        1868
+      ],
+      "cca3": "TTO",
+      "currency": {
+        "emoji": "TTD",
+        "key": "TTD",
+        "symbol": "TT$",
+        "value": "Trinidad and Tobago Dollar"
+      },
+      "emoji": "🇹🇹",
+      "key": "TT",
+      "value": "Trinidad and Tobago"
+    },
+    {
+      "calling_codes": [
+        216
+      ],
+      "cca3": "TUN",
+      "currency": {
+        "emoji": "TND",
+        "key": "TND",
+        "symbol": "TND ",
+        "value": "Tunisian Dinar"
+      },
+      "emoji": "🇹🇳",
+      "key": "TN",
+      "value": "Tunisia"
+    },
+    {
+      "calling_codes": [
+        90
+      ],
+      "cca3": "TUR",
+      "currency": {
+        "emoji": "TRY",
+        "key": "TRY",
+        "symbol": "TL",
+        "value": "Turkish Lira"
+      },
+      "emoji": "🇹🇷",
+      "key": "TR",
+      "value": "Turkey"
+    },
+    {
+      "calling_codes": [
+        993
+      ],
+      "cca3": "TKM",
+      "currency": {
+        "emoji": "TMT",
+        "key": "TMT",
+        "symbol": "",
+        "value": "Turkmenistan New Manat"
+      },
+      "emoji": "🇹🇲",
+      "key": "TM",
+      "value": "Turkmenistan"
+    },
+    {
+      "calling_codes": [
+        1649
+      ],
+      "cca3": "TCA",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇹🇨",
+      "key": "TC",
+      "value": "Turks and Caicos Islands"
+    },
+    {
+      "calling_codes": [
+        688
+      ],
+      "cca3": "TUV",
+      "currency": {
+        "emoji": "AUD",
+        "key": "AUD",
+        "symbol": "$",
+        "value": "Australian Dollar"
+      },
+      "emoji": "🇹🇻",
+      "key": "TV",
+      "value": "Tuvalu"
+    },
+    {
+      "calling_codes": [
+        256
+      ],
+      "cca3": "UGA",
+      "currency": {
+        "emoji": "UGX",
+        "key": "UGX",
+        "symbol": "UGX",
+        "value": "Uganda Shilling"
+      },
+      "emoji": "🇺🇬",
+      "key": "UG",
+      "value": "Uganda"
+    },
+    {
+      "calling_codes": [
+        380
+      ],
+      "cca3": "UKR",
+      "currency": {
+        "emoji": "UAH",
+        "key": "UAH",
+        "symbol": "UAH ",
+        "value": "Hryvnia"
+      },
+      "emoji": "🇺🇦",
+      "key": "UA",
+      "value": "Ukraine"
+    },
+    {
+      "calling_codes": [
+        971
+      ],
+      "cca3": "ARE",
+      "currency": {
+        "emoji": "AED",
+        "key": "AED",
+        "symbol": "Dhs.",
+        "value": "UAE Dirham"
+      },
+      "emoji": "🇦🇪",
+      "key": "AE",
+      "value": "United Arab Emirates"
+    },
+    {
+      "calling_codes": [
+        44
+      ],
+      "cca3": "GBR",
+      "currency": {
+        "emoji": "💷",
+        "key": "GBP",
+        "symbol": "£",
+        "value": "Pound Sterling"
+      },
+      "emoji": "🇬🇧",
+      "key": "GB",
+      "value": "United Kingdom"
+    },
+    {
+      "calling_codes": [
+        1
+      ],
+      "cca3": "USA",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇺🇸",
+      "key": "US",
+      "value": "United States of America"
+    },
+    {
+      "calling_codes": [
+        1
+      ],
+      "cca3": "UMI",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇺🇲",
+      "key": "UM",
+      "value": "United States Minor Outlying Islands"
+    },
+    {
+      "calling_codes": [
+        598
+      ],
+      "cca3": "URY",
+      "currency": {
+        "emoji": "UYI",
+        "key": "UYI",
+        "symbol": "",
+        "value": "Uruguay Peso en Unidades Indexadas (URUIURUI)"
+      },
+      "emoji": "🇺🇾",
+      "key": "UY",
+      "value": "Uruguay"
+    },
+    {
+      "calling_codes": [
+        998
+      ],
+      "cca3": "UZB",
+      "currency": {
+        "emoji": "UZS",
+        "key": "UZS",
+        "symbol": "лв",
+        "value": "Uzbekistan Sum"
+      },
+      "emoji": "🇺🇿",
+      "key": "UZ",
+      "value": "Uzbekistan"
+    },
+    {
+      "calling_codes": [
+        678
+      ],
+      "cca3": "VUT",
+      "currency": {
+        "emoji": "VUV",
+        "key": "VUV",
+        "symbol": "VT",
+        "value": "Vatu"
+      },
+      "emoji": "🇻🇺",
+      "key": "VU",
+      "value": "Vanuatu"
+    },
+    {
+      "calling_codes": [
+        58
+      ],
+      "cca3": "VEN",
+      "currency": {
+        "emoji": "VES",
+        "key": "VES",
+        "symbol": "",
+        "value": "Bolivar"
+      },
+      "emoji": "🇻🇪",
+      "key": "VE",
+      "value": "Venezuela"
+    },
+    {
+      "calling_codes": [
+        84
+      ],
+      "cca3": "VNM",
+      "currency": {
+        "emoji": "VND",
+        "key": "VND",
+        "symbol": "₫",
+        "value": "Dong"
+      },
+      "emoji": "🇻🇳",
+      "key": "VN",
+      "value": "Vietnam"
+    },
+    {
+      "calling_codes": [
+        1284
+      ],
+      "cca3": "VGB",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇻🇬",
+      "key": "VG",
+      "value": "Virgin Islands British"
+    },
+    {
+      "calling_codes": [
+        1340
+      ],
+      "cca3": "VIR",
+      "currency": {
+        "emoji": "💵",
+        "key": "USD",
+        "symbol": "$",
+        "value": "US Dollar"
+      },
+      "emoji": "🇻🇮",
+      "key": "VI",
+      "value": "Virgin Islands US"
+    },
+    {
+      "calling_codes": [
+        681
+      ],
+      "cca3": "WLF",
+      "currency": {
+        "emoji": "XPF",
+        "key": "XPF",
+        "symbol": "XPF ",
+        "value": "CFP Franc"
+      },
+      "emoji": "🇼🇫",
+      "key": "WF",
+      "value": "Wallis and Futuna Islands"
+    },
+    {
+      "calling_codes": [
+        212
+      ],
+      "cca3": "ESH",
+      "currency": {
+        "emoji": "MAD",
+        "key": "MAD",
+        "symbol": "MAD ",
+        "value": "Moroccan Dirham"
+      },
+      "emoji": "🇪🇭",
+      "key": "EH",
+      "value": "Western Sahara"
+    },
+    {
+      "calling_codes": [
+        967
+      ],
+      "cca3": "YEM",
+      "currency": {
+        "emoji": "YER",
+        "key": "YER",
+        "symbol": "﷼ ",
+        "value": "Yemeni Rial"
+      },
+      "emoji": "🇾🇪",
+      "key": "YE",
+      "value": "Yemen"
+    },
+    {
+      "calling_codes": [
+        38
+      ],
+      "cca3": "YUG",
+      "currency": {
+        "emoji": "YUD",
+        "key": "YUD",
+        "symbol": "",
+        "value": "Yugoslavian Dinar"
+      },
+      "emoji": "🇾🇺",
+      "key": "YU",
+      "value": "Yugoslavia"
+    },
+    {
+      "calling_codes": [
+        260
+      ],
+      "cca3": "ZMB",
+      "currency": {
+        "emoji": "ZMW",
+        "key": "ZMW",
+        "symbol": "",
+        "value": "Zambian Kwacha"
+      },
+      "emoji": "🇿🇲",
+      "key": "ZM",
+      "value": "Zambia"
+    },
+    {
+      "calling_codes": [
+        263
+      ],
+      "cca3": "ZWE",
+      "currency": {
+        "emoji": "ZWL",
+        "key": "ZWL",
+        "symbol": "",
+        "value": "Zimbabwe Dollar"
+      },
+      "emoji": "🇿🇼",
+      "key": "ZW",
+      "value": "Zimbabwe"
+    }
+  ]
+}

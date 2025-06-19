@@ -1,0 +1,93 @@
+<div class="row mt-4">
+    <div class="col-md-4 stretch-card">
+        <div class="card">
+            <div class="card-header">
+                PAIS SELECCIONADO
+            </div>
+            <div class="card-body">
+                <p><span class="title-label">Pais</span>: {{ labelPais }}</p>
+                <p><span class="title-label">Capital</span>: {{ labelCapital }}</p>
+                <p><span class="title-label">Region</span>: {{ labelRegion }}</p>
+                <p><span class="title-label">Latitud</span>: {{ labelLatitud }} <span class="title-label">Longitud</span>: {{ labelLontigud }}</p>
+            </div>
+        </div>        
+    </div>
+    <div class="col-md-4 stretch-card">
+        <div class="card">
+            <div class="card-header">
+                CLIMA
+            </div>
+            <div class="card-body">
+               <div class="row">
+                    <div class="col-md-4">
+                        <img src="{{ pathImgCondition }}" class="img-weather"/>
+                    </div>
+                    <div class="col-md-6 text-condition">
+                        <p>{{ labelConditionC }} °C</p>
+                        <p>{{ labelCondition }}</p>
+                    </div>
+               </div>
+            </div>
+        </div>        
+    </div>
+    <div class="col-md-4 stretch-card">
+        <div class="card">
+            <div class="card-header">
+                PAISES DISPONIBLES
+            </div>
+            <div class="card-body">
+                <ul class="list-group">
+                    <li class="list-group-item" (click)="loadCountryByClick('Spain')"><img src="{{ urlApp }}assets/images/flags/es.svg"  class="mr-2 rounded-circle"/>España</li>
+                    <li class="list-group-item" (click)="loadCountryByClick('France')"><img src="{{ urlApp }}assets/images/flags/fr.svg"  class="mr-2 rounded-circle"/>Francia</li>
+                    <li class="list-group-item" (click)="loadCountryByClick('Germany')"><img src="{{ urlApp }}assets/images/flags/de.svg"  class="mr-2 rounded-circle"/>Alemania</li>
+                    <li class="list-group-item" (click)="loadCountryByClick('United States of America')"><img src="{{ urlApp }}assets/images/flags/us.svg"  class="mr-2 rounded-circle"/>Estados Unidos</li>
+                    <li class="list-group-item" (click)="loadCountryByClick('Portugal')"><img src="{{ urlApp }}assets/images/flags/pt.svg"  class="mr-2 rounded-circle"/>Portugal</li>
+                </ul>
+            </div>
+        </div>        
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-md-4 stretch-card">
+        <div class="card">
+            <div class="card-header">
+                OTRAS TAREAS
+            </div>
+            <div class="card-body">
+                 <ul class="list-group">
+                    <li class="list-group-item" *ngFor="let tarea of listaTareas"><i class="feather icon-chevron-right"></i> {{ tarea.label }}</li>
+                </ul>
+            </div>
+        </div>        
+    </div>
+    <div class="col-md-4 stretch-card">
+        <div class="card">
+            <div class="card-header">
+                ZONAS HORARIAS DISPONIBLES
+            </div>
+            <div class="card-body">
+                <ul class="list-group">
+                    <li class="list-group-item" *ngFor="let timeZone of listTimeZonesByCountry" (click)="loadTimeZoneByCountry(timeZone)"><i class="feather icon-chevron-right"></i> {{ timeZone.value }}</li>
+                </ul>
+            </div>
+        </div>        
+    </div>
+</div>
+
+
+<div class="row mt-4">
+    <div class="col-md-4 stretch-card">        
+    </div>
+    <div class="col-md-4 stretch-card">
+        <div class="card">
+            <div class="card-header">
+                HORA
+            </div>
+            <div class="card-body">
+                 <p><span class="title-label">Hora</span>: {{ labelHora | date:'dd/MM/yyyy hh:mm:ss a'  }}</p>
+                  <p><span class="title-label">Tiempo de Zona</span>: {{ labelTimeZone }}</p>
+            </div>
+        </div>        
+    </div>
+</div>

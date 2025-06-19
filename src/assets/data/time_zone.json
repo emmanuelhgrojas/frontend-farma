@@ -1,0 +1,3230 @@
+{
+  "data": [
+    {
+      "key": "BF",
+      "value": "Africa/Abidjan",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "CI",
+      "value": "Africa/Abidjan",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "GM",
+      "value": "Africa/Abidjan",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "GN",
+      "value": "Africa/Abidjan",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "ML",
+      "value": "Africa/Abidjan",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "MR",
+      "value": "Africa/Abidjan",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "SN",
+      "value": "Africa/Abidjan",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "SL",
+      "value": "Africa/Abidjan",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "SH",
+      "value": "Africa/Abidjan",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "TG",
+      "value": "Africa/Abidjan",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "GH",
+      "value": "Africa/Accra",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "DZ",
+      "value": "Africa/Algiers",
+      "abbreviation": [
+        "CET"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "GW",
+      "value": "Africa/Bissau",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "EG",
+      "value": "Africa/Cairo",
+      "abbreviation": [
+        "EET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "MA",
+      "value": "Africa/Casablanca",
+      "abbreviation": null,
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "ES",
+      "value": "Africa/Ceuta",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "EH",
+      "value": "Africa/El_Aaiun",
+      "abbreviation": null,
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "SZ",
+      "value": "Africa/Johannesburg",
+      "abbreviation": [
+        "SAST"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "LS",
+      "value": "Africa/Johannesburg",
+      "abbreviation": [
+        "SAST"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "ZA",
+      "value": "Africa/Johannesburg",
+      "abbreviation": [
+        "SAST"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "SS",
+      "value": "Africa/Juba",
+      "abbreviation": [
+        "EAT"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "SD",
+      "value": "Africa/Khartoum",
+      "abbreviation": [
+        "CAT"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "AO",
+      "value": "Africa/Lagos",
+      "abbreviation": [
+        "WAT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "BJ",
+      "value": "Africa/Lagos",
+      "abbreviation": [
+        "WAT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "CM",
+      "value": "Africa/Lagos",
+      "abbreviation": [
+        "WAT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "CF",
+      "value": "Africa/Lagos",
+      "abbreviation": [
+        "WAT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "CD",
+      "value": "Africa/Lagos",
+      "abbreviation": [
+        "WAT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "CG",
+      "value": "Africa/Lagos",
+      "abbreviation": [
+        "WAT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "GQ",
+      "value": "Africa/Lagos",
+      "abbreviation": [
+        "WAT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "GA",
+      "value": "Africa/Lagos",
+      "abbreviation": [
+        "WAT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "NE",
+      "value": "Africa/Lagos",
+      "abbreviation": [
+        "WAT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "NG",
+      "value": "Africa/Lagos",
+      "abbreviation": [
+        "WAT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "BW",
+      "value": "Africa/Maputo",
+      "abbreviation": [
+        "CAT"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "BI",
+      "value": "Africa/Maputo",
+      "abbreviation": [
+        "CAT"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "CD",
+      "value": "Africa/Maputo",
+      "abbreviation": [
+        "CAT"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "MW",
+      "value": "Africa/Maputo",
+      "abbreviation": [
+        "CAT"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "MZ",
+      "value": "Africa/Maputo",
+      "abbreviation": [
+        "CAT"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "RW",
+      "value": "Africa/Maputo",
+      "abbreviation": [
+        "CAT"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "ZM",
+      "value": "Africa/Maputo",
+      "abbreviation": [
+        "CAT"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "ZW",
+      "value": "Africa/Maputo",
+      "abbreviation": [
+        "CAT"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "LR",
+      "value": "Africa/Monrovia",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "KM",
+      "value": "Africa/Nairobi",
+      "abbreviation": [
+        "EAT"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "DJ",
+      "value": "Africa/Nairobi",
+      "abbreviation": [
+        "EAT"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "ER",
+      "value": "Africa/Nairobi",
+      "abbreviation": [
+        "EAT"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "ET",
+      "value": "Africa/Nairobi",
+      "abbreviation": [
+        "EAT"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "KE",
+      "value": "Africa/Nairobi",
+      "abbreviation": [
+        "EAT"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "MG",
+      "value": "Africa/Nairobi",
+      "abbreviation": [
+        "EAT"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "YT",
+      "value": "Africa/Nairobi",
+      "abbreviation": [
+        "EAT"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "SO",
+      "value": "Africa/Nairobi",
+      "abbreviation": [
+        "EAT"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "TZ",
+      "value": "Africa/Nairobi",
+      "abbreviation": [
+        "EAT"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "UG",
+      "value": "Africa/Nairobi",
+      "abbreviation": [
+        "EAT"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "TD",
+      "value": "Africa/Ndjamena",
+      "abbreviation": [
+        "WAT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "ST",
+      "value": "Africa/Sao_Tome",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "LY",
+      "value": "Africa/Tripoli",
+      "abbreviation": [
+        "EET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "TN",
+      "value": "Africa/Tunis",
+      "abbreviation": [
+        "CET"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "NA",
+      "value": "Africa/Windhoek",
+      "abbreviation": [
+        "CAT"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Adak",
+      "abbreviation": [
+        "HDT",
+        "HST"
+      ],
+      "utc_time": "UTC -09:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Anchorage",
+      "abbreviation": [
+        "AKDT",
+        "AKST"
+      ],
+      "utc_time": "UTC -08:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Araguaina",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AR",
+      "value": "America/Argentina/Buenos_Aires",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AR",
+      "value": "America/Argentina/Catamarca",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AR",
+      "value": "America/Argentina/Cordoba",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AR",
+      "value": "America/Argentina/Jujuy",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AR",
+      "value": "America/Argentina/La_Rioja",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AR",
+      "value": "America/Argentina/Mendoza",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AR",
+      "value": "America/Argentina/Rio_Gallegos",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AR",
+      "value": "America/Argentina/Salta",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AR",
+      "value": "America/Argentina/San_Juan",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AR",
+      "value": "America/Argentina/San_Luis",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AR",
+      "value": "America/Argentina/Tucuman",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AR",
+      "value": "America/Argentina/Ushuaia",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "PY",
+      "value": "America/Asuncion",
+      "abbreviation": null,
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Atikokan",
+      "abbreviation": [
+        "EST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Bahia",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "MX",
+      "value": "America/Bahia_Banderas",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "BB",
+      "value": "America/Barbados",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Belem",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "BZ",
+      "value": "America/Belize",
+      "abbreviation": [
+        "CST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Blanc-Sablon",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Boa_Vista",
+      "abbreviation": null,
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "CO",
+      "value": "America/Bogota",
+      "abbreviation": null,
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Boise",
+      "abbreviation": [
+        "MDT",
+        "MST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Cambridge_Bay",
+      "abbreviation": [
+        "MDT",
+        "MST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Campo_Grande",
+      "abbreviation": null,
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "MX",
+      "value": "America/Cancun",
+      "abbreviation": [
+        "EST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "VE",
+      "value": "America/Caracas",
+      "abbreviation": null,
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "GF",
+      "value": "America/Cayenne",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Chicago",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "MX",
+      "value": "America/Chihuahua",
+      "abbreviation": [
+        "MDT",
+        "MST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "CR",
+      "value": "America/Costa_Rica",
+      "abbreviation": [
+        "CST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Creston",
+      "abbreviation": [
+        "MST"
+      ],
+      "utc_time": "UTC -07:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Cuiaba",
+      "abbreviation": null,
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "AW",
+      "value": "America/Curacao",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "BQ",
+      "value": "America/Curacao",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "CW",
+      "value": "America/Curacao",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "SX",
+      "value": "America/Curacao",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "GL",
+      "value": "America/Danmarkshavn",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "CA",
+      "value": "America/Dawson",
+      "abbreviation": [
+        "MST",
+        "PDT",
+        "PST"
+      ],
+      "utc_time": "UTC -07:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Dawson_Creek",
+      "abbreviation": [
+        "MST"
+      ],
+      "utc_time": "UTC -07:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Denver",
+      "abbreviation": [
+        "MDT",
+        "MST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Detroit",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Edmonton",
+      "abbreviation": [
+        "MDT",
+        "MST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Eirunepe",
+      "abbreviation": null,
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "SV",
+      "value": "America/El_Salvador",
+      "abbreviation": [
+        "CST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Fort_Nelson",
+      "abbreviation": [
+        "MST"
+      ],
+      "utc_time": "UTC -07:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Fortaleza",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Glace_Bay",
+      "abbreviation": [
+        "ADT",
+        "AST"
+      ],
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Goose_Bay",
+      "abbreviation": [
+        "ADT",
+        "AST"
+      ],
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "TC",
+      "value": "America/Grand_Turk",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "GT",
+      "value": "America/Guatemala",
+      "abbreviation": [
+        "CST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "EC",
+      "value": "America/Guayaquil",
+      "abbreviation": null,
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "GY",
+      "value": "America/Guyana",
+      "abbreviation": null,
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Halifax",
+      "abbreviation": [
+        "ADT",
+        "AST"
+      ],
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "CU",
+      "value": "America/Havana",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "MX",
+      "value": "America/Hermosillo",
+      "abbreviation": [
+        "MST"
+      ],
+      "utc_time": "UTC -07:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Indiana/Indianapolis",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Indiana/Knox",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Indiana/Marengo",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Indiana/Petersburg",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Indiana/Tell_City",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Indiana/Vevay",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Indiana/Vincennes",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Indiana/Winamac",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Inuvik",
+      "abbreviation": [
+        "MDT",
+        "MST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Iqaluit",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "JM",
+      "value": "America/Jamaica",
+      "abbreviation": [
+        "EST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Juneau",
+      "abbreviation": [
+        "AKDT",
+        "AKST"
+      ],
+      "utc_time": "UTC -08:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Kentucky/Louisville",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Kentucky/Monticello",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "BO",
+      "value": "America/La_Paz",
+      "abbreviation": null,
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "PE",
+      "value": "America/Lima",
+      "abbreviation": null,
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Los_Angeles",
+      "abbreviation": [
+        "PDT",
+        "PST"
+      ],
+      "utc_time": "UTC -07:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Maceio",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "NI",
+      "value": "America/Managua",
+      "abbreviation": [
+        "CST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Manaus",
+      "abbreviation": null,
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "MQ",
+      "value": "America/Martinique",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "MX",
+      "value": "America/Matamoros",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "MX",
+      "value": "America/Mazatlan",
+      "abbreviation": [
+        "MDT",
+        "MST"
+      ],
+      "utc_time": "UTC -07:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Menominee",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "MX",
+      "value": "America/Merida",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Metlakatla",
+      "abbreviation": [
+        "AKDT",
+        "AKST"
+      ],
+      "utc_time": "UTC -08:00"
+    },
+    {
+      "key": "MX",
+      "value": "America/Mexico_City",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "PM",
+      "value": "America/Miquelon",
+      "abbreviation": null,
+      "utc_time": "UTC -02:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Moncton",
+      "abbreviation": [
+        "ADT",
+        "AST"
+      ],
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "MX",
+      "value": "America/Monterrey",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "UY",
+      "value": "America/Montevideo",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "BS",
+      "value": "America/Nassau",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "US",
+      "value": "America/New_York",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Nipigon",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Nome",
+      "abbreviation": [
+        "AKDT",
+        "AKST"
+      ],
+      "utc_time": "UTC -08:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Noronha",
+      "abbreviation": null,
+      "utc_time": "UTC -02:00"
+    },
+    {
+      "key": "US",
+      "value": "America/North_Dakota/Beulah",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "US",
+      "value": "America/North_Dakota/Center",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "US",
+      "value": "America/North_Dakota/New_Salem",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "GL",
+      "value": "America/Nuuk",
+      "abbreviation": null,
+      "utc_time": "UTC -02:00"
+    },
+    {
+      "key": "MX",
+      "value": "America/Ojinaga",
+      "abbreviation": [
+        "MDT",
+        "MST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "KY",
+      "value": "America/Panama",
+      "abbreviation": [
+        "EST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "PA",
+      "value": "America/Panama",
+      "abbreviation": [
+        "EST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Pangnirtung",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "SR",
+      "value": "America/Paramaribo",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Phoenix",
+      "abbreviation": [
+        "MST"
+      ],
+      "utc_time": "UTC -07:00"
+    },
+    {
+      "key": "HT",
+      "value": "America/Port-au-Prince",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "AI",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "AG",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "DM",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "GD",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "GP",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "MS",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "BL",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "KN",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "LC",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "MF",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "VC",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "TT",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "VG",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "VI",
+      "value": "America/Port_of_Spain",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Porto_Velho",
+      "abbreviation": null,
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "PR",
+      "value": "America/Puerto_Rico",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "CL",
+      "value": "America/Punta_Arenas",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Rainy_River",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Rankin_Inlet",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Recife",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Regina",
+      "abbreviation": [
+        "CST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Resolute",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Rio_Branco",
+      "abbreviation": null,
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Santarem",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "CL",
+      "value": "America/Santiago",
+      "abbreviation": null,
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "DO",
+      "value": "America/Santo_Domingo",
+      "abbreviation": [
+        "AST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "BR",
+      "value": "America/Sao_Paulo",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "GL",
+      "value": "America/Scoresbysund",
+      "abbreviation": null,
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "US",
+      "value": "America/Sitka",
+      "abbreviation": [
+        "AKDT",
+        "AKST"
+      ],
+      "utc_time": "UTC -08:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/St_Johns",
+      "abbreviation": [
+        "NDT",
+        "NST"
+      ],
+      "utc_time": "UTC -02:30"
+    },
+    {
+      "key": "CA",
+      "value": "America/Swift_Current",
+      "abbreviation": [
+        "CST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "HN",
+      "value": "America/Tegucigalpa",
+      "abbreviation": [
+        "CST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "GL",
+      "value": "America/Thule",
+      "abbreviation": [
+        "ADT",
+        "AST"
+      ],
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Thunder_Bay",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "MX",
+      "value": "America/Tijuana",
+      "abbreviation": [
+        "PDT",
+        "PST"
+      ],
+      "utc_time": "UTC -07:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Toronto",
+      "abbreviation": [
+        "EDT",
+        "EST"
+      ],
+      "utc_time": "UTC -04:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Vancouver",
+      "abbreviation": [
+        "PDT",
+        "PST"
+      ],
+      "utc_time": "UTC -07:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Whitehorse",
+      "abbreviation": [
+        "MST",
+        "PDT",
+        "PST"
+      ],
+      "utc_time": "UTC -07:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Winnipeg",
+      "abbreviation": [
+        "CDT",
+        "CST"
+      ],
+      "utc_time": "UTC -05:00"
+    },
+    {
+      "key": "US",
+      "value": "America/Yakutat",
+      "abbreviation": [
+        "AKDT",
+        "AKST"
+      ],
+      "utc_time": "UTC -08:00"
+    },
+    {
+      "key": "CA",
+      "value": "America/Yellowknife",
+      "abbreviation": [
+        "MDT",
+        "MST"
+      ],
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "AQ",
+      "value": "Antarctica/Casey",
+      "abbreviation": null,
+      "utc_time": "UTC +11:00"
+    },
+    {
+      "key": "AQ",
+      "value": "Antarctica/Davis",
+      "abbreviation": null,
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "AQ",
+      "value": "Antarctica/DumontDUrville",
+      "abbreviation": null,
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "AU",
+      "value": "Antarctica/Macquarie",
+      "abbreviation": [
+        "AEDT",
+        "AEST"
+      ],
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "AQ",
+      "value": "Antarctica/Mawson",
+      "abbreviation": null,
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "AQ",
+      "value": "Antarctica/Palmer",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AQ",
+      "value": "Antarctica/Rothera",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AQ",
+      "value": "Antarctica/Syowa",
+      "abbreviation": null,
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "AQ",
+      "value": "Antarctica/Troll",
+      "abbreviation": null,
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "AQ",
+      "value": "Antarctica/Vostok",
+      "abbreviation": null,
+      "utc_time": "UTC +06:00"
+    },
+    {
+      "key": "KZ",
+      "value": "Asia/Almaty",
+      "abbreviation": null,
+      "utc_time": "UTC +06:00"
+    },
+    {
+      "key": "JO",
+      "value": "Asia/Amman",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Anadyr",
+      "abbreviation": null,
+      "utc_time": "UTC +12:00"
+    },
+    {
+      "key": "KZ",
+      "value": "Asia/Aqtau",
+      "abbreviation": null,
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "KZ",
+      "value": "Asia/Aqtobe",
+      "abbreviation": null,
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "TM",
+      "value": "Asia/Ashgabat",
+      "abbreviation": null,
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "KZ",
+      "value": "Asia/Atyrau",
+      "abbreviation": null,
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "IQ",
+      "value": "Asia/Baghdad",
+      "abbreviation": null,
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "AZ",
+      "value": "Asia/Baku",
+      "abbreviation": null,
+      "utc_time": "UTC +04:00"
+    },
+    {
+      "key": "KH",
+      "value": "Asia/Bangkok",
+      "abbreviation": null,
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "LA",
+      "value": "Asia/Bangkok",
+      "abbreviation": null,
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "TH",
+      "value": "Asia/Bangkok",
+      "abbreviation": null,
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "VN",
+      "value": "Asia/Bangkok",
+      "abbreviation": null,
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Barnaul",
+      "abbreviation": null,
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "LB",
+      "value": "Asia/Beirut",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "KG",
+      "value": "Asia/Bishkek",
+      "abbreviation": null,
+      "utc_time": "UTC +06:00"
+    },
+    {
+      "key": "BN",
+      "value": "Asia/Brunei",
+      "abbreviation": null,
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Chita",
+      "abbreviation": null,
+      "utc_time": "UTC +09:00"
+    },
+    {
+      "key": "MN",
+      "value": "Asia/Choibalsan",
+      "abbreviation": null,
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "LK",
+      "value": "Asia/Colombo",
+      "abbreviation": null,
+      "utc_time": "UTC +05:30"
+    },
+    {
+      "key": "SY",
+      "value": "Asia/Damascus",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "BD",
+      "value": "Asia/Dhaka",
+      "abbreviation": null,
+      "utc_time": "UTC +06:00"
+    },
+    {
+      "key": "TL",
+      "value": "Asia/Dili",
+      "abbreviation": null,
+      "utc_time": "UTC +09:00"
+    },
+    {
+      "key": "OM",
+      "value": "Asia/Dubai",
+      "abbreviation": null,
+      "utc_time": "UTC +04:00"
+    },
+    {
+      "key": "AE",
+      "value": "Asia/Dubai",
+      "abbreviation": null,
+      "utc_time": "UTC +04:00"
+    },
+    {
+      "key": "TJ",
+      "value": "Asia/Dushanbe",
+      "abbreviation": null,
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "CY",
+      "value": "Asia/Famagusta",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "PS",
+      "value": "Asia/Gaza",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "PS",
+      "value": "Asia/Hebron",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "VN",
+      "value": "Asia/Ho_Chi_Minh",
+      "abbreviation": null,
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "HK",
+      "value": "Asia/Hong_Kong",
+      "abbreviation": [
+        "HKT"
+      ],
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "MN",
+      "value": "Asia/Hovd",
+      "abbreviation": null,
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Irkutsk",
+      "abbreviation": null,
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "ID",
+      "value": "Asia/Jakarta",
+      "abbreviation": [
+        "WIB"
+      ],
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "ID",
+      "value": "Asia/Jayapura",
+      "abbreviation": [
+        "WIT"
+      ],
+      "utc_time": "UTC +09:00"
+    },
+    {
+      "key": "IL",
+      "value": "Asia/Jerusalem",
+      "abbreviation": [
+        "IDT",
+        "IST"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "AF",
+      "value": "Asia/Kabul",
+      "abbreviation": null,
+      "utc_time": "UTC +04:30"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Kamchatka",
+      "abbreviation": null,
+      "utc_time": "UTC +12:00"
+    },
+    {
+      "key": "PK",
+      "value": "Asia/Karachi",
+      "abbreviation": [
+        "PKT"
+      ],
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "NP",
+      "value": "Asia/Kathmandu",
+      "abbreviation": null,
+      "utc_time": "UTC +05:45"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Khandyga",
+      "abbreviation": null,
+      "utc_time": "UTC +09:00"
+    },
+    {
+      "key": "IN",
+      "value": "Asia/Kolkata",
+      "abbreviation": [
+        "IST"
+      ],
+      "utc_time": "UTC +05:30"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Krasnoyarsk",
+      "abbreviation": null,
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "MY",
+      "value": "Asia/Kuala_Lumpur",
+      "abbreviation": null,
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "MY",
+      "value": "Asia/Kuching",
+      "abbreviation": null,
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "MO",
+      "value": "Asia/Macau",
+      "abbreviation": [
+        "CST"
+      ],
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Magadan",
+      "abbreviation": null,
+      "utc_time": "UTC +11:00"
+    },
+    {
+      "key": "ID",
+      "value": "Asia/Makassar",
+      "abbreviation": [
+        "WITA"
+      ],
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "PH",
+      "value": "Asia/Manila",
+      "abbreviation": [
+        "PST"
+      ],
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "CY",
+      "value": "Asia/Nicosia",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Novokuznetsk",
+      "abbreviation": null,
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Novosibirsk",
+      "abbreviation": null,
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Omsk",
+      "abbreviation": null,
+      "utc_time": "UTC +06:00"
+    },
+    {
+      "key": "KZ",
+      "value": "Asia/Oral",
+      "abbreviation": null,
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "ID",
+      "value": "Asia/Pontianak",
+      "abbreviation": [
+        "WIB"
+      ],
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "KP",
+      "value": "Asia/Pyongyang",
+      "abbreviation": [
+        "KST"
+      ],
+      "utc_time": "UTC +09:00"
+    },
+    {
+      "key": "BH",
+      "value": "Asia/Qatar",
+      "abbreviation": null,
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "QA",
+      "value": "Asia/Qatar",
+      "abbreviation": null,
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "KZ",
+      "value": "Asia/Qostanay",
+      "abbreviation": null,
+      "utc_time": "UTC +06:00"
+    },
+    {
+      "key": "KZ",
+      "value": "Asia/Qyzylorda",
+      "abbreviation": null,
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "KW",
+      "value": "Asia/Riyadh",
+      "abbreviation": null,
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "SA",
+      "value": "Asia/Riyadh",
+      "abbreviation": null,
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "YE",
+      "value": "Asia/Riyadh",
+      "abbreviation": null,
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Sakhalin",
+      "abbreviation": null,
+      "utc_time": "UTC +11:00"
+    },
+    {
+      "key": "UZ",
+      "value": "Asia/Samarkand",
+      "abbreviation": null,
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "KR",
+      "value": "Asia/Seoul",
+      "abbreviation": [
+        "KST"
+      ],
+      "utc_time": "UTC +09:00"
+    },
+    {
+      "key": "CN",
+      "value": "Asia/Shanghai",
+      "abbreviation": [
+        "CST"
+      ],
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "SG",
+      "value": "Asia/Singapore",
+      "abbreviation": null,
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Srednekolymsk",
+      "abbreviation": null,
+      "utc_time": "UTC +11:00"
+    },
+    {
+      "key": "TW",
+      "value": "Asia/Taipei",
+      "abbreviation": [
+        "CST"
+      ],
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "UZ",
+      "value": "Asia/Tashkent",
+      "abbreviation": null,
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "GE",
+      "value": "Asia/Tbilisi",
+      "abbreviation": null,
+      "utc_time": "UTC +04:00"
+    },
+    {
+      "key": "IR",
+      "value": "Asia/Tehran",
+      "abbreviation": null,
+      "utc_time": "UTC +03:30"
+    },
+    {
+      "key": "BT",
+      "value": "Asia/Thimphu",
+      "abbreviation": null,
+      "utc_time": "UTC +06:00"
+    },
+    {
+      "key": "JP",
+      "value": "Asia/Tokyo",
+      "abbreviation": [
+        "JST"
+      ],
+      "utc_time": "UTC +09:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Tomsk",
+      "abbreviation": null,
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "MN",
+      "value": "Asia/Ulaanbaatar",
+      "abbreviation": null,
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "CN",
+      "value": "Asia/Urumqi",
+      "abbreviation": null,
+      "utc_time": "UTC +06:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Ust-Nera",
+      "abbreviation": null,
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Vladivostok",
+      "abbreviation": null,
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Yakutsk",
+      "abbreviation": null,
+      "utc_time": "UTC +09:00"
+    },
+    {
+      "key": "MM",
+      "value": "Asia/Yangon",
+      "abbreviation": null,
+      "utc_time": "UTC +06:30"
+    },
+    {
+      "key": "RU",
+      "value": "Asia/Yekaterinburg",
+      "abbreviation": null,
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "AM",
+      "value": "Asia/Yerevan",
+      "abbreviation": null,
+      "utc_time": "UTC +04:00"
+    },
+    {
+      "key": "PT",
+      "value": "Atlantic/Azores",
+      "abbreviation": null,
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "BM",
+      "value": "Atlantic/Bermuda",
+      "abbreviation": [
+        "ADT",
+        "AST"
+      ],
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "ES",
+      "value": "Atlantic/Canary",
+      "abbreviation": [
+        "WEST",
+        "WET"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "CV",
+      "value": "Atlantic/Cape_Verde",
+      "abbreviation": null,
+      "utc_time": "UTC -01:00"
+    },
+    {
+      "key": "FO",
+      "value": "Atlantic/Faroe",
+      "abbreviation": [
+        "WEST",
+        "WET"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "PT",
+      "value": "Atlantic/Madeira",
+      "abbreviation": [
+        "WEST",
+        "WET"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "IS",
+      "value": "Atlantic/Reykjavik",
+      "abbreviation": [
+        "GMT"
+      ],
+      "utc_time": "UTC Z"
+    },
+    {
+      "key": "GS",
+      "value": "Atlantic/South_Georgia",
+      "abbreviation": null,
+      "utc_time": "UTC -02:00"
+    },
+    {
+      "key": "FK",
+      "value": "Atlantic/Stanley",
+      "abbreviation": null,
+      "utc_time": "UTC -03:00"
+    },
+    {
+      "key": "AU",
+      "value": "Australia/Adelaide",
+      "abbreviation": [
+        "ACDT",
+        "ACST"
+      ],
+      "utc_time": "UTC +09:30"
+    },
+    {
+      "key": "AU",
+      "value": "Australia/Brisbane",
+      "abbreviation": [
+        "AEST"
+      ],
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "AU",
+      "value": "Australia/Broken_Hill",
+      "abbreviation": [
+        "ACDT",
+        "ACST"
+      ],
+      "utc_time": "UTC +09:30"
+    },
+    {
+      "key": "AU",
+      "value": "Australia/Currie",
+      "abbreviation": [
+        "AEDT",
+        "AEST"
+      ],
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "AU",
+      "value": "Australia/Darwin",
+      "abbreviation": [
+        "ACST"
+      ],
+      "utc_time": "UTC +09:30"
+    },
+    {
+      "key": "AU",
+      "value": "Australia/Eucla",
+      "abbreviation": null,
+      "utc_time": "UTC +08:45"
+    },
+    {
+      "key": "AU",
+      "value": "Australia/Hobart",
+      "abbreviation": [
+        "AEDT",
+        "AEST"
+      ],
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "AU",
+      "value": "Australia/Lindeman",
+      "abbreviation": [
+        "AEST"
+      ],
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "AU",
+      "value": "Australia/Lord_Howe",
+      "abbreviation": null,
+      "utc_time": "UTC +10:30"
+    },
+    {
+      "key": "AU",
+      "value": "Australia/Melbourne",
+      "abbreviation": [
+        "AEDT",
+        "AEST"
+      ],
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "AU",
+      "value": "Australia/Perth",
+      "abbreviation": [
+        "AWST"
+      ],
+      "utc_time": "UTC +08:00"
+    },
+    {
+      "key": "AU",
+      "value": "Australia/Sydney",
+      "abbreviation": [
+        "AEDT",
+        "AEST"
+      ],
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "NL",
+      "value": "Europe/Amsterdam",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "AD",
+      "value": "Europe/Andorra",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "RU",
+      "value": "Europe/Astrakhan",
+      "abbreviation": null,
+      "utc_time": "UTC +04:00"
+    },
+    {
+      "key": "GR",
+      "value": "Europe/Athens",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "BA",
+      "value": "Europe/Belgrade",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "HR",
+      "value": "Europe/Belgrade",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "ME",
+      "value": "Europe/Belgrade",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "MK",
+      "value": "Europe/Belgrade",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "RS",
+      "value": "Europe/Belgrade",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "SI",
+      "value": "Europe/Belgrade",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "DE",
+      "value": "Europe/Berlin",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "BE",
+      "value": "Europe/Brussels",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "RO",
+      "value": "Europe/Bucharest",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "HU",
+      "value": "Europe/Budapest",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "MD",
+      "value": "Europe/Chisinau",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "DK",
+      "value": "Europe/Copenhagen",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "IE",
+      "value": "Europe/Dublin",
+      "abbreviation": [
+        "GMT",
+        "IST"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "GI",
+      "value": "Europe/Gibraltar",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "AX",
+      "value": "Europe/Helsinki",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "FI",
+      "value": "Europe/Helsinki",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "TR",
+      "value": "Europe/Istanbul",
+      "abbreviation": null,
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "RU",
+      "value": "Europe/Kaliningrad",
+      "abbreviation": [
+        "EET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "UA",
+      "value": "Europe/Kiev",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "RU",
+      "value": "Europe/Kirov",
+      "abbreviation": null,
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "PT",
+      "value": "Europe/Lisbon",
+      "abbreviation": [
+        "WEST",
+        "WET"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "GB",
+      "value": "Europe/London",
+      "abbreviation": [
+        "BST",
+        "GMT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "GG",
+      "value": "Europe/London",
+      "abbreviation": [
+        "BST",
+        "GMT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "IM",
+      "value": "Europe/London",
+      "abbreviation": [
+        "BST",
+        "GMT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "JE",
+      "value": "Europe/London",
+      "abbreviation": [
+        "BST",
+        "GMT"
+      ],
+      "utc_time": "UTC +01:00"
+    },
+    {
+      "key": "LU",
+      "value": "Europe/Luxembourg",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "ES",
+      "value": "Europe/Madrid",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "MT",
+      "value": "Europe/Malta",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "BY",
+      "value": "Europe/Minsk",
+      "abbreviation": null,
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "MC",
+      "value": "Europe/Monaco",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "RU",
+      "value": "Europe/Moscow",
+      "abbreviation": [
+        "MSK"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "NO",
+      "value": "Europe/Oslo",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "SJ",
+      "value": "Europe/Oslo",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "FR",
+      "value": "Europe/Paris",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "CZ",
+      "value": "Europe/Prague",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "SK",
+      "value": "Europe/Prague",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "LV",
+      "value": "Europe/Riga",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "IT",
+      "value": "Europe/Rome",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "SM",
+      "value": "Europe/Rome",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "VA",
+      "value": "Europe/Rome",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "RU",
+      "value": "Europe/Samara",
+      "abbreviation": null,
+      "utc_time": "UTC +04:00"
+    },
+    {
+      "key": "RU",
+      "value": "Europe/Saratov",
+      "abbreviation": null,
+      "utc_time": "UTC +04:00"
+    },
+    {
+      "key": "RU",
+      "value": "Europe/Simferopol",
+      "abbreviation": [
+        "MSK"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "UA",
+      "value": "Europe/Simferopol",
+      "abbreviation": [
+        "MSK"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "BG",
+      "value": "Europe/Sofia",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "SE",
+      "value": "Europe/Stockholm",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "EE",
+      "value": "Europe/Tallinn",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "AL",
+      "value": "Europe/Tirane",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "RU",
+      "value": "Europe/Ulyanovsk",
+      "abbreviation": null,
+      "utc_time": "UTC +04:00"
+    },
+    {
+      "key": "UA",
+      "value": "Europe/Uzhgorod",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "AT",
+      "value": "Europe/Vienna",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "LT",
+      "value": "Europe/Vilnius",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "RU",
+      "value": "Europe/Volgograd",
+      "abbreviation": null,
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "PL",
+      "value": "Europe/Warsaw",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "UA",
+      "value": "Europe/Zaporozhye",
+      "abbreviation": [
+        "EEST",
+        "EET"
+      ],
+      "utc_time": "UTC +03:00"
+    },
+    {
+      "key": "DE",
+      "value": "Europe/Zurich",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "LI",
+      "value": "Europe/Zurich",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "CH",
+      "value": "Europe/Zurich",
+      "abbreviation": [
+        "CEST",
+        "CET"
+      ],
+      "utc_time": "UTC +02:00"
+    },
+    {
+      "key": "IO",
+      "value": "Indian/Chagos",
+      "abbreviation": null,
+      "utc_time": "UTC +06:00"
+    },
+    {
+      "key": "CX",
+      "value": "Indian/Christmas",
+      "abbreviation": null,
+      "utc_time": "UTC +07:00"
+    },
+    {
+      "key": "CC",
+      "value": "Indian/Cocos",
+      "abbreviation": null,
+      "utc_time": "UTC +06:30"
+    },
+    {
+      "key": "TF",
+      "value": "Indian/Kerguelen",
+      "abbreviation": null,
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "SC",
+      "value": "Indian/Mahe",
+      "abbreviation": null,
+      "utc_time": "UTC +04:00"
+    },
+    {
+      "key": "MV",
+      "value": "Indian/Maldives",
+      "abbreviation": null,
+      "utc_time": "UTC +05:00"
+    },
+    {
+      "key": "MU",
+      "value": "Indian/Mauritius",
+      "abbreviation": null,
+      "utc_time": "UTC +04:00"
+    },
+    {
+      "key": "TF",
+      "value": "Indian/Reunion",
+      "abbreviation": null,
+      "utc_time": "UTC +04:00"
+    },
+    {
+      "key": "RE",
+      "value": "Indian/Reunion",
+      "abbreviation": null,
+      "utc_time": "UTC +04:00"
+    },
+    {
+      "key": "WS",
+      "value": "Pacific/Apia",
+      "abbreviation": null,
+      "utc_time": "UTC +13:00"
+    },
+    {
+      "key": "AQ",
+      "value": "Pacific/Auckland",
+      "abbreviation": [
+        "NZDT",
+        "NZST"
+      ],
+      "utc_time": "UTC +12:00"
+    },
+    {
+      "key": "NZ",
+      "value": "Pacific/Auckland",
+      "abbreviation": [
+        "NZDT",
+        "NZST"
+      ],
+      "utc_time": "UTC +12:00"
+    },
+    {
+      "key": "PG",
+      "value": "Pacific/Bougainville",
+      "abbreviation": null,
+      "utc_time": "UTC +11:00"
+    },
+    {
+      "key": "NZ",
+      "value": "Pacific/Chatham",
+      "abbreviation": null,
+      "utc_time": "UTC +12:45"
+    },
+    {
+      "key": "FM",
+      "value": "Pacific/Chuuk",
+      "abbreviation": null,
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "CL",
+      "value": "Pacific/Easter",
+      "abbreviation": null,
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "VU",
+      "value": "Pacific/Efate",
+      "abbreviation": null,
+      "utc_time": "UTC +11:00"
+    },
+    {
+      "key": "KI",
+      "value": "Pacific/Enderbury",
+      "abbreviation": null,
+      "utc_time": "UTC +13:00"
+    },
+    {
+      "key": "TK",
+      "value": "Pacific/Fakaofo",
+      "abbreviation": null,
+      "utc_time": "UTC +13:00"
+    },
+    {
+      "key": "FJ",
+      "value": "Pacific/Fiji",
+      "abbreviation": null,
+      "utc_time": "UTC +12:00"
+    },
+    {
+      "key": "TV",
+      "value": "Pacific/Funafuti",
+      "abbreviation": null,
+      "utc_time": "UTC +12:00"
+    },
+    {
+      "key": "EC",
+      "value": "Pacific/Galapagos",
+      "abbreviation": null,
+      "utc_time": "UTC -06:00"
+    },
+    {
+      "key": "PF",
+      "value": "Pacific/Gambier",
+      "abbreviation": null,
+      "utc_time": "UTC -09:00"
+    },
+    {
+      "key": "SB",
+      "value": "Pacific/Guadalcanal",
+      "abbreviation": null,
+      "utc_time": "UTC +11:00"
+    },
+    {
+      "key": "GU",
+      "value": "Pacific/Guam",
+      "abbreviation": [
+        "ChST"
+      ],
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "MP",
+      "value": "Pacific/Guam",
+      "abbreviation": [
+        "ChST"
+      ],
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "UM",
+      "value": "Pacific/Honolulu",
+      "abbreviation": [
+        "HST"
+      ],
+      "utc_time": "UTC -10:00"
+    },
+    {
+      "key": "US",
+      "value": "Pacific/Honolulu",
+      "abbreviation": [
+        "HST"
+      ],
+      "utc_time": "UTC -10:00"
+    },
+    {
+      "key": "KI",
+      "value": "Pacific/Kiritimati",
+      "abbreviation": null,
+      "utc_time": "UTC +14:00"
+    },
+    {
+      "key": "FM",
+      "value": "Pacific/Kosrae",
+      "abbreviation": null,
+      "utc_time": "UTC +11:00"
+    },
+    {
+      "key": "MH",
+      "value": "Pacific/Kwajalein",
+      "abbreviation": null,
+      "utc_time": "UTC +12:00"
+    },
+    {
+      "key": "MH",
+      "value": "Pacific/Majuro",
+      "abbreviation": null,
+      "utc_time": "UTC +12:00"
+    },
+    {
+      "key": "PF",
+      "value": "Pacific/Marquesas",
+      "abbreviation": null,
+      "utc_time": "UTC -09:30"
+    },
+    {
+      "key": "NR",
+      "value": "Pacific/Nauru",
+      "abbreviation": null,
+      "utc_time": "UTC +12:00"
+    },
+    {
+      "key": "NU",
+      "value": "Pacific/Niue",
+      "abbreviation": null,
+      "utc_time": "UTC -11:00"
+    },
+    {
+      "key": "NF",
+      "value": "Pacific/Norfolk",
+      "abbreviation": null,
+      "utc_time": "UTC +11:00"
+    },
+    {
+      "key": "NC",
+      "value": "Pacific/Noumea",
+      "abbreviation": null,
+      "utc_time": "UTC +11:00"
+    },
+    {
+      "key": "AS",
+      "value": "Pacific/Pago_Pago",
+      "abbreviation": [
+        "SST"
+      ],
+      "utc_time": "UTC -11:00"
+    },
+    {
+      "key": "UM",
+      "value": "Pacific/Pago_Pago",
+      "abbreviation": [
+        "SST"
+      ],
+      "utc_time": "UTC -11:00"
+    },
+    {
+      "key": "PW",
+      "value": "Pacific/Palau",
+      "abbreviation": null,
+      "utc_time": "UTC +09:00"
+    },
+    {
+      "key": "PN",
+      "value": "Pacific/Pitcairn",
+      "abbreviation": null,
+      "utc_time": "UTC -08:00"
+    },
+    {
+      "key": "FM",
+      "value": "Pacific/Pohnpei",
+      "abbreviation": null,
+      "utc_time": "UTC +11:00"
+    },
+    {
+      "key": "PG",
+      "value": "Pacific/Port_Moresby",
+      "abbreviation": null,
+      "utc_time": "UTC +10:00"
+    },
+    {
+      "key": "CK",
+      "value": "Pacific/Rarotonga",
+      "abbreviation": null,
+      "utc_time": "UTC -10:00"
+    },
+    {
+      "key": "PF",
+      "value": "Pacific/Tahiti",
+      "abbreviation": null,
+      "utc_time": "UTC -10:00"
+    },
+    {
+      "key": "KI",
+      "value": "Pacific/Tarawa",
+      "abbreviation": null,
+      "utc_time": "UTC +12:00"
+    },
+    {
+      "key": "TO",
+      "value": "Pacific/Tongatapu",
+      "abbreviation": null,
+      "utc_time": "UTC +13:00"
+    },
+    {
+      "key": "UM",
+      "value": "Pacific/Wake",
+      "abbreviation": null,
+      "utc_time": "UTC +12:00"
+    },
+    {
+      "key": "WF",
+      "value": "Pacific/Wallis",
+      "abbreviation": null,
+      "utc_time": "UTC +12:00"
+    }
+  ]
+}

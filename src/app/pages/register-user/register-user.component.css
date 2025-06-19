@@ -1,0 +1,103 @@
+/* Begin Styles View  */
+.view {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .wrapperFormView {
+    margin: 50px 0px 0px 0px;
+    padding: 25px;
+    height: 100%;
+    width: 485px;
+  }
+  
+  .contentFormView,
+  .contentFormViewFail {
+    min-height: 315px;
+    max-height: 410px;
+    margin: 15px 0px 0px 0px;
+  }
+  
+  .logoSystemView {
+    max-width: 220px;
+    max-height: 90px;
+  }
+  
+  .logoNaharaSoftView {
+    max-width: 220px;
+    max-height: 80px;
+  }
+  
+  .logoNaharaSoftViewFail {}
+  
+  .titleSystemView {
+    font-size: 1.2rem;
+    text-align: center;
+    font-weight: 600;
+    color: var(--color-first) !important;
+  }
+  
+  .subTitleSystemView {
+    font-size: .8rem;
+    text-align: center;
+  }
+  
+  .labelInputView {
+    color: var(--color-first) !important;
+    font-size: .9rem;
+    font-weight: 600;
+  }
+  
+  .input-group-text{
+    color: var(--color-first) !important;
+  }
+  
+  .form-control{
+    height: 38px;
+  }
+  
+  .wrapperLogoNaharaSoftView {}
+  
+  .maxCharactersInputsView {
+    margin-top: -5px;
+  }
+  
+  .heightButtonIconViewPassword {
+    color: var(--color-text-light-grey);
+    height: 38px;
+  }
+  
+  .heightButtonIconViewPassword:hover {
+    color: var(--color-text-gray);
+  }
+  
+  .wrapperForm {
+    padding: 0;
+  }
+  
+  
+  
+  .titlesPlatform{
+    margin-left: 1rem;
+  }
+  
+  /* End Styles View  */
+  
+  /* Begin Styles View  Fail */
+  
+  .titleSystemViewFail {
+    margin: 0px 0px 20px 0px;
+    text-align: center;
+  }
+  
+  .paragraphViewFail {
+    text-align: center;
+  }
+  
+  /* End Styles View  Fail */
+  
+  /* Begin Styles Links  */
+  
+  

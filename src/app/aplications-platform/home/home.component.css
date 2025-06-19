@@ -1,0 +1,34 @@
+.rounded-circle {
+    width: 15%;
+    max-width: 65px;
+    max-height: 48px;
+}
+
+.list-group-item{
+    cursor: pointer;
+    color: #5d6778;
+}
+
+.title-label{
+    font-weight: 700;
+    color: #5d6778;
+}
+
+.card-header{
+    color: var(--color-second) !important;
+}
+
+.img-weather{
+    width: 70%;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.text-condition{
+    margin-top: 20px;
+    color: #5d6778;
+}
+
+p{
+    color: #5d6778 !important;
+}
