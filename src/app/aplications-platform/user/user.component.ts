@@ -87,7 +87,7 @@ export class UserComponent implements OnInit, AfterViewInit {
       processing: true,
       language: LANGUAGE_DATATABLE,
       destroy:true,
-      ajax: (dataTablesParameters: any, callback) => {
+      ajax: (dataTablesParameters: any, callback: any) => {
         that.http
           .post<DataTablesResponse>(this.urlApi + 'usuario/', dataTablesParameters, {}).subscribe(resp => {
             callback({
@@ -97,7 +97,7 @@ export class UserComponent implements OnInit, AfterViewInit {
             });
           });
       },
-      drawCallback: function(settings) {
+      drawCallback: function(settings: any) {
       },
       columns: [
         { title: "usuario", data: 'usuaUsername' }, 

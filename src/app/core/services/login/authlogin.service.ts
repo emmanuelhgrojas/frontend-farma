@@ -86,7 +86,7 @@ export class AuthLoginService {
     return !this.jwtHelper.isTokenExpired(accessToken);
   }
 
-  public getDecodeAccessToken(accessToken: string): AccessTokenUserInterface {
+  public getDecodeAccessToken(accessToken: string): AccessTokenUserInterface | null {
     return jwtHelper.decodeToken(accessToken);
   }
 
